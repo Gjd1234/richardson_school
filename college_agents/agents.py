@@ -301,7 +301,19 @@ def analyst(state: CollegeState) -> dict:
         f"Compile today's parent digest (markdown, actionable, brief)."
     )
     llm = get_model("research", temperature=0.3)
-    digest = (llm.invoke(system + "\n\n" + user).content or "").strip()
+    digest = ""
+    for attempt in range(2):  # retry once if the free model returns too little
+        digest = (llm.invoke(system + "\n\n" + user).content or "").strip()
+        if len(digest) >= 300:
+            break
+        if attempt == 0:
+            user = (
+                f"Researcher briefs:\n--- STUDIES ---\n{studies}\n--- SCHOLARSHIPS ---\n{scholarships}\n--- ADMISSIONS ---\n{admissions}\n\n"
+                f"Memory deadlines: {inputs['deadlines']}\nMemory scholarships: {inputs['scholarships']}\n"
+                f"Known interests: {inputs['interests']}\nKnown facts: {inputs['known_facts']}\n\n"
+                f"The previous response was too short. Write a complete markdown digest (300+ words) covering "
+                f"deadlines due soon, new findings, and suggested next steps - even if some briefs are thin."
+            )
 
     store.log_digest(state.get("coverage", []))
     return {"digest": digest}
