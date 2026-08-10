@@ -43,7 +43,6 @@ def build_email(digest: str, to: str) -> EmailMessage:
     msg = EmailMessage()
     cfg = _config().get("digest", {})
     msg["Subject"] = f"{cfg.get('subject_prefix', 'College Scout')} - " + mem.today()
-    msg["From"] = True  # placeholder, replaced in send
     msg["To"] = to
     msg.set_content(digest)
     msg.add_alternative(
