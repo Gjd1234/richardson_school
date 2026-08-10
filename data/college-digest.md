@@ -1,63 +1,53 @@
-# TODAY'S COLLEGE DIGEST — August 10, 2026  
-**Student:** Class of 2027 | Richardson HS, TX | CS/AI/Engineering focus  
-**Apps open:** UT Austin & Texas A&M opened **Aug 1** (ApplyTexas/Common App).  
+# TODAY'S COLLEGE DIGEST — August 10, 2026
+**For:** Parent of a Richardson HS senior (Class of 2027) · STEM/CS/AI focus
 
 ---
 
-### 1. Due Soon — Urgent Deadlines (next 60 days)
+## 1. Due soon — most urgent deadlines
 
-| Scholarship / Deadline | Date | Days Left | Link |
-|------------------------|------|-----------|------|
-| **Gates Scholarship Phase I** | Sep 15, 2026 | 36 | [thegatesscholarship.org](https://www.thegatesscholarship.org/scholarship) |
-| **Breakthrough Junior Challenge** (STEM video, $250k) | Sep 15, 2026 | 36 | [scholarships360.org](https://scholarships360.org/scholarships/stem-scholarships) |
-| **QuestBridge National College Match** | Oct 1, 2026 | 52 | [questbridge.org](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
-| **Texas A&M Engineering Priority Deadline** | Oct 15, 2026 | 66 | [blinn.edu/tamu-engineering](https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html) |
-| **FAFSA / CSS Profile Open** | Oct 1, 2026 | 52 | [studentaid.gov](https://studentaid.gov) / [cssprofile.collegeboard.org](https://cssprofile.collegeboard.org) |
-
-> **Note:** Gates & QuestBridge are in memory; Breakthrough is **NEW** from today’s research.
+| Deadline | Date | Days left | Link |
+|---|---|---|---|
+| **The Gates Scholarship — Phase I** | Sep 15, 2026 | 36 | https://www.thegatesscholarship.org/scholarship |
+| **Breakthrough Junior Challenge** | Sep 15, 2026 | 36 | https://breakthroughjuniorchallenge.org/enter |
+| **QuestBridge National College Match** | Oct 1, 2026 | 52 | https://www.questbridge.org/apply-to-college/programs/national-college-match/apply |
+| **Sports Gear Swag Scholarship** | Oct 1, 2026 | 52 | https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors |
+| **Texas A&M Engineering Priority Deadline** | Oct 15, 2026 | 66 | https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html |
 
 ---
 
-### 2. What’s New Today
+## 2. What's new today
 
-- **NEW** **Breakthrough Junior Challenge** — $250k scholarship, deadline **Sep 15** (5 weeks). Requires a short STEM video. Open to high school seniors.  
-- **NEW** **UT Austin & Texas A&M applications are live** (opened Aug 1). Submit early for best consideration; priority deadlines not yet published in sources.  
-- **NEW** **FAFSA & CSS Profile open Oct 1, 2026** for 2027–28 aid year. Create FSA IDs now.  
-- **NEW** **Essay prompts confirmed** for UT Austin (Why major, ~250–300 words), Rice (two 150-word supplements + one TBD), Stanford (three 100–250 word essays), CMU (optional extenuating circumstances, 300 words). MIT & Texas A&M prompts still missing from sources.  
-- **NEW** **Recommendation letter intel**: Graduate CS programs uniformly want 3 letters submitted electronically via each portal; **undergrad requirements likely differ** — verify each school’s freshman admissions page.
+- **NEW: Caltech now requires Fall 2027 applicants to review its ethical-use-of-AI guidelines before submitting supplemental essays.** This is a real 2026–27 cycle change.  
+  https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays/ethical-use-of-ai-guidelines-for-fall-applicants
 
----
+- **NEW: Stanford’s 2026–27 supplemental essay prompts are unchanged from last cycle** — your student can start drafting those essays now.  
+  https://www.selectiveadmissions.com/blog-posts/stanford-supplemental-essay-prompts-2025-2026
 
-### 3. Trends & Study Options (Tech/STEM)
+- **NEW: MIT’s supplement asks about self-directed academic work** — research, independent study, or coursework outside school. Good to start brainstorming examples.  
+  https://www.koppelmangroup.com/blog/2026/7/30/how-to-write-the-mit-supplement-2026-2027
 
-- **AI/ML specialization** now embedded in most CS curricula; look for “AI concentrations” or joint CS+Data Science majors (UT Austin, CMU, Stanford, Georgia Tech).  
-- **Interdisciplinary computing** (CS + Bio, CS + Econ, CS + Policy) growing — Rice’s “Data Science” and UIUC’s “CS + X” degrees are examples.  
-- **Early application advantage** real for impacted majors (CS/Engineering at UT, TAMU, UTD); priority deadlines often Oct 15–Nov 1.  
-- **Research experience** (even high-school level) increasingly valued at top programs; document any projects for essays/portfolios.
+- **NEW: No additional Texas-specific senior scholarships with Sept/Oct deadlines surfaced** beyond Gates/QuestBridge/Terry. The closest national option is Sports Gear Swag ($1,000, Oct 1).
 
 ---
 
-### 4. Suggested Next Steps (This Week)
+## 3. Trends & study options
 
-1. **Start UT Austin & Texas A&M applications** (ApplyTexas/Common App) — both open since Aug 1.  
-2. **Draft UT Austin “Why Computer Science?” essay** (250–300 words) and **Rice’s two 150-word supplements**; outline Stanford’s three short essays.  
-3. **Identify 3 recommenders** (2 academic for Stanford) and ask them now; confirm they’ll submit via each portal.  
-4. **Create FSA ID** (student + parent) for Oct 1 FAFSA opening; gather 2025 tax docs.  
-5. **Record Breakthrough Junior Challenge video** (if pursuing) — deadline Sep 15.  
-6. **Check each target school’s freshman admissions page** for:  
-   - Exact priority/final deadlines  
-   - Separate engineering/CS application requirements  
-   - Undergraduate recommendation letter rules  
-   - MIT & Texas A&M essay prompts (missing from current sources)
+AI ethics is becoming part of selective STEM admissions — Caltech’s new AI-use review is a signal that colleges want students who can use AI responsibly. For a CS/AI/data science student, that means showcasing self-directed projects and being transparent about AI use in essays. MIT’s supplement also rewards independent academic curiosity beyond schoolwork, so real projects/research will stand out.
 
 ---
 
-### 5. Open Questions (Need Answers)
+## 4. Suggested next steps for your student this week
 
-1. **What are the exact undergraduate recommendation letter requirements** (number, type, submission method) for each target school?  
-2. **Do UT Austin, Texas A&M, UTD, or other Texas publics require a separate engineering/CS application** or have earlier internal deadlines?  
-3. **What are the final MIT and Texas A&M essay prompts and word limits** for Fall 2027?  
+1. **Start the Breakthrough Junior Challenge video** — pick a STEM concept, write a 2–3 minute script, and begin filming. Deadline: Sep 15.
+2. **Begin the Gates Scholarship Phase I application** — gather family financial info and activities list. Deadline: Sep 15.
+3. **Open the QuestBridge National College Match application** and start drafting personal essays. Deadline: Oct 1.
+4. **Draft MIT/Stanford/Caltech supplemental essay ideas** — especially self-directed projects and Caltech’s AI ethics review.
+5. **Verify University of Houston and Texas Tech deadlines** on their official admissions sites — research briefs were incomplete. Texas Tech’s Early Decision/scholarship deadline is Dec 1.
 
 ---
 
-*Sources: Researcher briefs (studies, scholarships, admissions) + student memory. All URLs included above.*
+## 5. Open questions
+
+- Is your student eligible for QuestBridge (household income/assets criteria)? Worth confirming before investing time.
+- Which schools are on the final college list? This determines which deadlines matter most.
+- Are SAT/ACT scores available, and are target schools test-optional for Fall 2027? Still unconfirmed for UH/Texas Tech.

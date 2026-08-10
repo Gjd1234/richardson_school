@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_run": "2026-08-10T23:35:20.044157+00:00",
-    "run_count": 6
+    "last_run": "2026-08-10T23:53:55.043834+00:00",
+    "run_count": 7
   },
   "profile": {},
   "interests": [
     {
       "name": "Computer Science",
       "strength": 3,
-      "last_seen": "2026-08-10T23:32:08.194307+00:00"
+      "last_seen": "2026-08-10T23:53:36.798857+00:00"
     },
     {
       "name": "Engineering",
       "strength": 3,
-      "last_seen": "2026-08-10T23:32:08.194316+00:00"
+      "last_seen": "2026-08-10T23:48:50.634765+00:00"
     },
     {
       "name": "Artificial Intelligence",
@@ -32,13 +32,13 @@
     },
     {
       "name": "STEM",
-      "strength": 1,
-      "last_seen": "2026-08-10T21:04:30.704543+00:00"
+      "strength": 3,
+      "last_seen": "2026-08-10T23:53:36.798854+00:00"
     },
     {
       "name": "Computer Science and Engineering",
-      "strength": 1,
-      "last_seen": "2026-08-10T21:22:21.506628+00:00"
+      "strength": 2,
+      "last_seen": "2026-08-10T23:48:50.634768+00:00"
     },
     {
       "name": "Multidisciplinary Studies Degree in Artificial Intelligence",
@@ -813,6 +813,213 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T23:32:08.194175+00:00",
       "last_seen": "2026-08-10T23:32:08.194177+00:00"
+    },
+    {
+      "id": "4319206492036097076",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "The 2026 Breakthrough Junior Challenge application requires creating a short video explaining a scientific or mathematical concept and submitting a YouTube video link.",
+      "source": "https://scholarships.delawarestudentsuccess.org/application-requirements-video/entry/14554",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.633820+00:00",
+      "last_seen": "2026-08-10T23:48:50.633836+00:00"
+    },
+    {
+      "id": "2062883313454088913",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "Applicants must join and share the video on Breakthrough YouTube, Facebook, Instagram, and TikTok pages and participate in the Peer-to-Peer review.",
+      "source": "https://breakthroughjuniorchallenge.org/enter",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.633916+00:00",
+      "last_seen": "2026-08-10T23:48:50.633918+00:00"
+    },
+    {
+      "id": "6974532156771852245",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "The application includes choosing an 'inspiration' teacher, who can be from high school, middle school, or elementary school.",
+      "source": "https://breakthroughjuniorchallenge.org/faq",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.633982+00:00",
+      "last_seen": "2026-08-10T23:48:50.633984+00:00"
+    },
+    {
+      "id": "7095722990043434416",
+      "topic": "Breakthrough Junior Challenge eligibility",
+      "fact": "Eligibility is ages 13-18; applicants must be at least 13 by May 11, 2026 and under 19 by October 1, 2026; submissions are accepted in English.",
+      "source": "https://studentscholarships.org/scholarship/16846/breakthrough-junior-challenge",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634046+00:00",
+      "last_seen": "2026-08-10T23:48:50.634048+00:00"
+    },
+    {
+      "id": "5445564140562372413",
+      "topic": "Breakthrough Junior Challenge essays",
+      "fact": "No essay prompts were mentioned in the provided search results; the application appears to be video-based rather than essay-based.",
+      "source": "https://breakthroughjuniorchallenge.org/enter",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634110+00:00",
+      "last_seen": "2026-08-10T23:48:50.634112+00:00"
+    },
+    {
+      "id": "4962902346453524790",
+      "topic": "MIT admissions",
+      "fact": "MIT does not use the Common Application; applicants use MIT's own application platform for the application and required essays.",
+      "source": "https://www.cosmic.nyc/blog/mit-essays-guide-2026-2027",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634175+00:00",
+      "last_seen": "2026-08-10T23:48:50.634177+00:00"
+    },
+    {
+      "id": "5938110057168092616",
+      "topic": "Caltech admissions",
+      "fact": "Fall 2027 first-year applicants apply through the Common App or QuestBridge Application for supplemental essays.",
+      "source": "https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634240+00:00",
+      "last_seen": "2026-08-10T23:48:50.634242+00:00"
+    },
+    {
+      "id": "7362921594885166806",
+      "topic": "Caltech admissions",
+      "fact": "For Fall 2027, Caltech requires applicants to review Caltech's ethical-use-of-AI guidelines before submitting supplemental essays.",
+      "source": "https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays/ethical-use-of-ai-guidelines-for-fall-applicants",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634306+00:00",
+      "last_seen": "2026-08-10T23:48:50.634308+00:00"
+    },
+    {
+      "id": "7301181325320209880",
+      "topic": "Texas Tech admissions",
+      "fact": "Texas Tech lists Early Decision and scholarship consideration deadline as December 1 for Fall 2027 freshman admission.",
+      "source": "https://kdcollegeprep.com/college-application-deadlines-fall-2027-freshman-admission",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634373+00:00",
+      "last_seen": "2026-08-10T23:48:50.634375+00:00"
+    },
+    {
+      "id": "1790148592583737180",
+      "topic": "UT Austin Texas Global Scholarships",
+      "fact": "UT Austin Texas Global Scholarships have an application window of October 1 through November 1, 2026 for Spring/Summer 2027 scholarships and appear aimed at international students.",
+      "source": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634444+00:00",
+      "last_seen": "2026-08-10T23:48:50.634445+00:00"
+    },
+    {
+      "id": "9073612826117424746",
+      "topic": "Texas scholarships",
+      "fact": "The Texas Farm Credit Scholarship (Marsha Martin Scholarship) is Texas-specific for high school seniors committed to agriculture, rural communities, and leadership in FFA or 4-H.",
+      "source": "https://collegewhale.com/texas",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634512+00:00",
+      "last_seen": "2026-08-10T23:48:50.634513+00:00"
+    },
+    {
+      "id": "6374087869569881549",
+      "topic": "Sports Gear Swag Scholarship",
+      "fact": "The Sports Gear Swag Scholarship is not Texas-specific; it is open to high school seniors and full-time undergraduate/graduate students at least 18 years old and requires a 500-word submission.",
+      "source": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634580+00:00",
+      "last_seen": "2026-08-10T23:48:50.634582+00:00"
+    },
+    {
+      "id": "4525156782316456328",
+      "topic": "Texas scholarships",
+      "fact": "Communities Foundation of Texas scholarships award up to full tuition, books, fees, and housing.",
+      "source": "https://www.cftexas.org/scholarships/apply-for-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.797774+00:00",
+      "last_seen": "2026-08-10T23:53:36.797789+00:00"
+    },
+    {
+      "id": "7524641951941221438",
+      "topic": "Texas scholarships",
+      "fact": "Several Texas-related scholarships listed on Scholarships.com (Art Porter Memorial, Austin Lodge No. 12, BAFTX) have a deadline of March 31, 2027.",
+      "source": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.797858+00:00",
+      "last_seen": "2026-08-10T23:53:36.797859+00:00"
+    },
+    {
+      "id": "7365355629744374666",
+      "topic": "UT Austin Texas Global Scholarships",
+      "fact": "UT Austin Texas Global Scholarships for Spring/Summer 2027 have an application period of October 1 \u2013 November 1, 2026.",
+      "source": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.797939+00:00",
+      "last_seen": "2026-08-10T23:53:36.797941+00:00"
+    },
+    {
+      "id": "2777554939024395233",
+      "topic": "Sports Gear Swag Scholarship",
+      "fact": "Sports Gear Swag Scholarship is open to high school seniors and full-time undergraduate/graduate students at least 18 years old and requires a 500-word essay.",
+      "source": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798010+00:00",
+      "last_seen": "2026-08-10T23:53:36.798011+00:00"
+    },
+    {
+      "id": "2203427134738194010",
+      "topic": "Texas Farm Credit Scholarship",
+      "fact": "Texas Farm Credit Scholarship is open to Texas residents who are high school seniors committed to agriculture, rural communities, and leadership in FFA or 4-H.",
+      "source": "https://collegewhale.com/texas",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798079+00:00",
+      "last_seen": "2026-08-10T23:53:36.798081+00:00"
+    },
+    {
+      "id": "4277708252174155975",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "Breakthrough Junior Challenge is a global science video competition with a $250,000 prize.",
+      "source": "https://scholarships360.org/scholarships/search/breakthrough-junior-challenge",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798150+00:00",
+      "last_seen": "2026-08-10T23:53:36.798151+00:00"
+    },
+    {
+      "id": "1880137452625154509",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "Breakthrough Junior Challenge is open to students ages 13\u201318, with age requirements of being 13+ by May 11, 2026 and under 19 as of October 1, 2026; submissions must be in English.",
+      "source": "https://studentscholarships.org/scholarship/16846/breakthrough-junior-challenge",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798221+00:00",
+      "last_seen": "2026-08-10T23:53:36.798223+00:00"
+    },
+    {
+      "id": "5901050519197424394",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "Breakthrough Junior Challenge requires a YouTube video link, joining and sharing on Breakthrough social media pages, and participation in peer-to-peer review.",
+      "source": "https://breakthroughjuniorchallenge.org/enter",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798293+00:00",
+      "last_seen": "2026-08-10T23:53:36.798295+00:00"
+    },
+    {
+      "id": "6637257099510675344",
+      "topic": "MIT admissions",
+      "fact": "MIT does not use the Common Application; applicants use MIT's own application platform and complete all required essays there.",
+      "source": "https://www.cosmic.nyc/blog/mit-essays-guide-2026-2027",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798365+00:00",
+      "last_seen": "2026-08-10T23:53:36.798367+00:00"
+    },
+    {
+      "id": "7131717956167804358",
+      "topic": "Caltech admissions",
+      "fact": "Caltech Fall 2027 first-year applicants apply through the Common App or QuestBridge Application and complete Caltech's supplemental application essays.",
+      "source": "https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798439+00:00",
+      "last_seen": "2026-08-10T23:53:36.798440+00:00"
+    },
+    {
+      "id": "2419947849175971279",
+      "topic": "Caltech admissions",
+      "fact": "Caltech now requires Fall 2027 applicants to review its ethical-use-of-AI guidelines before submitting supplemental essays.",
+      "source": "https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798512+00:00",
+      "last_seen": "2026-08-10T23:53:36.798513+00:00"
     }
   ],
   "deadlines": [
@@ -1031,6 +1238,96 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T23:32:08.194248+00:00",
       "last_seen": "2026-08-10T23:32:08.194250+00:00"
+    },
+    {
+      "id": "2754960411675671946",
+      "title": "Breakthrough Junior Challenge 2026 submission deadline",
+      "date": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/search/breakthrough-junior-challenge",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634611+00:00",
+      "last_seen": "2026-08-10T23:48:50.634612+00:00"
+    },
+    {
+      "id": "1792770683440043811",
+      "title": "Sports Gear Swag Scholarship deadline",
+      "date": "2026-10-01",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634634+00:00",
+      "last_seen": "2026-08-10T23:48:50.634636+00:00"
+    },
+    {
+      "id": "8818645567651911324",
+      "title": "UT Austin Texas Global Scholarships application window close",
+      "date": "2026-11-01",
+      "url": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634657+00:00",
+      "last_seen": "2026-08-10T23:48:50.634658+00:00"
+    },
+    {
+      "id": "1237683898731588796",
+      "title": "Texas Tech University Early Decision and scholarship consideration deadline",
+      "date": "2026-12-01",
+      "url": "https://kdcollegeprep.com/college-application-deadlines-fall-2027-freshman-admission",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634680+00:00",
+      "last_seen": "2026-08-10T23:48:50.634681+00:00"
+    },
+    {
+      "id": "1365209148488570059",
+      "title": "Breakthrough Junior Challenge 2026",
+      "date": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/search/breakthrough-junior-challenge",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798564+00:00",
+      "last_seen": "2026-08-10T23:53:36.798566+00:00"
+    },
+    {
+      "id": "3799767305891498868",
+      "title": "Sports Gear Swag Scholarship",
+      "date": "2026-10-01",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798588+00:00",
+      "last_seen": "2026-08-10T23:53:36.798590+00:00"
+    },
+    {
+      "id": "7964702485089030815",
+      "title": "UT Austin Texas Global Scholarships",
+      "date": "2026-11-01",
+      "url": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798613+00:00",
+      "last_seen": "2026-08-10T23:53:36.798614+00:00"
+    },
+    {
+      "id": "3089359509125026964",
+      "title": "Art Porter Memorial (Scholarships.com)",
+      "date": "2027-03-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798638+00:00",
+      "last_seen": "2026-08-10T23:53:36.798640+00:00"
+    },
+    {
+      "id": "740897731493449484",
+      "title": "Austin Lodge No. 12 (Scholarships.com)",
+      "date": "2027-03-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798664+00:00",
+      "last_seen": "2026-08-10T23:53:36.798666+00:00"
+    },
+    {
+      "id": "678565312210365738",
+      "title": "BAFTX (Scholarships.com)",
+      "date": "2027-03-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798691+00:00",
+      "last_seen": "2026-08-10T23:53:36.798692+00:00"
     }
   ],
   "scholarships": [
@@ -1165,6 +1462,127 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T23:32:08.194297+00:00",
       "last_seen": "2026-08-10T23:32:08.194299+00:00"
+    },
+    {
+      "id": "3698405508874367694",
+      "name": "Breakthrough Junior Challenge",
+      "amount": "",
+      "deadline": "2026-09-15",
+      "url": "https://studentscholarships.org/scholarship/16846/breakthrough-junior-challenge",
+      "eligibility": "Ages 13-18; at least 13 by May 11, 2026; under 19 by October 1, 2026; submissions accepted in English.",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634699+00:00",
+      "last_seen": "2026-08-10T23:48:50.634700+00:00"
+    },
+    {
+      "id": "3799767305891498868",
+      "name": "Sports Gear Swag Scholarship",
+      "amount": "$1,000",
+      "deadline": "2026-10-01",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "eligibility": "High school seniors and full-time undergraduate/graduate students at least 18 years old; requires a 500-word submission.",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634715+00:00",
+      "last_seen": "2026-08-10T23:48:50.634716+00:00"
+    },
+    {
+      "id": "6868524639995106896",
+      "name": "Texas Farm Credit Scholarship (Marsha Martin Scholarship)",
+      "amount": "",
+      "deadline": "",
+      "url": "https://collegewhale.com/texas",
+      "eligibility": "Texas residents committed to agriculture, rural communities, and leadership in FFA or 4-H.",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634731+00:00",
+      "last_seen": "2026-08-10T23:48:50.634732+00:00"
+    },
+    {
+      "id": "7964702485089030815",
+      "name": "Ut Austin Texas Global Scholarships",
+      "amount": "",
+      "deadline": "2026-11-01",
+      "url": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "eligibility": "Appears aimed at international students; not specifically for Texas high school seniors; for Spring/Summer 2027 scholarships.",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:48:50.634747+00:00",
+      "last_seen": "2026-08-10T23:48:50.634749+00:00"
+    },
+    {
+      "id": "3089359509125026964",
+      "name": "Art Porter Memorial (Scholarships.Com)",
+      "amount": "",
+      "deadline": "2027-03-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "eligibility": "",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798730+00:00",
+      "last_seen": "2026-08-10T23:53:36.798731+00:00"
+    },
+    {
+      "id": "740897731493449484",
+      "name": "Austin Lodge No. 12 (Scholarships.Com)",
+      "amount": "",
+      "deadline": "2027-03-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "eligibility": "",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798747+00:00",
+      "last_seen": "2026-08-10T23:53:36.798749+00:00"
+    },
+    {
+      "id": "678565312210365738",
+      "name": "Baftx (Scholarships.Com)",
+      "amount": "",
+      "deadline": "2027-03-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior",
+      "eligibility": "",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798764+00:00",
+      "last_seen": "2026-08-10T23:53:36.798766+00:00"
+    },
+    {
+      "id": "7964702485089030815",
+      "name": "Ut Austin Texas Global Scholarships",
+      "amount": "",
+      "deadline": "2026-11-01",
+      "url": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "eligibility": "Not specified; review each scholarship's eligibility requirements",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798786+00:00",
+      "last_seen": "2026-08-10T23:53:36.798787+00:00"
+    },
+    {
+      "id": "3799767305891498868",
+      "name": "Sports Gear Swag Scholarship",
+      "amount": "$1,000",
+      "deadline": "2026-10-01",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "eligibility": "High school seniors and full-time undergraduate/graduate students at least 18 years old; 500-word essay required",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798806+00:00",
+      "last_seen": "2026-08-10T23:53:36.798807+00:00"
+    },
+    {
+      "id": "3421483028267014106",
+      "name": "Texas Farm Credit Scholarship",
+      "amount": "",
+      "deadline": "",
+      "url": "https://collegewhale.com/texas",
+      "eligibility": "Texas residents who are high school seniors committed to agriculture, rural communities, and leadership in FFA or 4-H",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798826+00:00",
+      "last_seen": "2026-08-10T23:53:36.798827+00:00"
+    },
+    {
+      "id": "3698405508874367694",
+      "name": "Breakthrough Junior Challenge",
+      "amount": "$250,000",
+      "deadline": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/search/breakthrough-junior-challenge",
+      "eligibility": "Ages 13\u201318; must be 13+ by May 11, 2026, and not yet 19 as of October 1, 2026; open to middle/high school students",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:53:36.798846+00:00",
+      "last_seen": "2026-08-10T23:53:36.798847+00:00"
     }
   ],
   "coverage": {
@@ -1267,6 +1685,22 @@
     "What are the specific essay prompts, word limits, and any supplemental short-answer questions for Fall 2027 freshman applications to UT Austin (Computer Science), Texas A&M (Engineering), Rice University (Computer Science), Stanford (Computer Science), MIT, and Carnegie Mellon (School of Computer Science)?": {
       "last_researched": "2026-08-10",
       "search_count": 3
+    },
+    "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science and Engineering at University of Houston and Texas Tech University?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "What are the exact application requirements, essay prompts, and submission deadline for the Breakthrough Junior Challenge 2026 (due September 15, 2026) for a high school senior interested in STEM?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "Which Texas-specific scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility criteria and award amounts?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "What are the portfolio, supplemental essay, or additional material requirements for Fall 2027 Computer Science admissions at MIT, Stanford, and Caltech, and have any requirements changed for the 2026-2027 application cycle?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
     }
   },
   "digest_history": [
@@ -1353,6 +1787,23 @@
         "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates and QuestBridge, and what are their eligibility requirements and award amounts?",
         "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?",
         "What are the specific essay prompts, word limits, and any supplemental short-answer questions for Fall 2027 freshman applications to UT Austin (Computer Science), Texas A&M (Engineering), Rice University (Computer Science), Stanford (Computer Science), MIT, and Carnegie Mellon (School of Computer Science)?"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "topics_covered": [
+        "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science and Engineering at University of Houston and Texas Tech University?",
+        "What are the exact application requirements, essay prompts, and submission deadline for the Breakthrough Junior Challenge 2026 (due September 15, 2026) for a high school senior interested in STEM?",
+        "What are the portfolio, supplemental essay, or additional material requirements for Fall 2027 Computer Science admissions at MIT, Stanford, and Caltech, and have any requirements changed for the 2026-2027 application cycle?",
+        "Which Texas-specific scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility criteria and award amounts?",
+        "Which Texas-specific scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility criteria and award amounts?",
+        "What are the exact application requirements, essay prompts, and submission deadline for the Breakthrough Junior Challenge 2026 (due September 15, 2026) for a high school senior interested in STEM?",
+        "What are the portfolio, supplemental essay, or additional material requirements for Fall 2027 Computer Science admissions at MIT, Stanford, and Caltech, and have any requirements changed for the 2026-2027 application cycle?",
+        "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science and Engineering at University of Houston and Texas Tech University?",
+        "What are the exact application requirements, essay prompts, and submission deadline for the Breakthrough Junior Challenge 2026 (due September 15, 2026) for a high school senior interested in STEM?",
+        "Which Texas-specific scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility criteria and award amounts?",
+        "What are the portfolio, supplemental essay, or additional material requirements for Fall 2027 Computer Science admissions at MIT, Stanford, and Caltech, and have any requirements changed for the 2026-2027 application cycle?",
+        "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science and Engineering at University of Houston and Texas Tech University?"
       ]
     }
   ]
