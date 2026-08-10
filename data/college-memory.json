@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_run": "2026-08-10T21:22:43.833009+00:00",
-    "run_count": 5
+    "last_run": "2026-08-10T23:35:20.044157+00:00",
+    "run_count": 6
   },
   "profile": {},
   "interests": [
     {
       "name": "Computer Science",
       "strength": 3,
-      "last_seen": "2026-08-10T21:22:23.682461+00:00"
+      "last_seen": "2026-08-10T23:32:08.194307+00:00"
     },
     {
       "name": "Engineering",
       "strength": 3,
-      "last_seen": "2026-08-10T21:22:23.682463+00:00"
+      "last_seen": "2026-08-10T23:32:08.194316+00:00"
     },
     {
       "name": "Artificial Intelligence",
@@ -678,6 +678,141 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T21:22:23.682386+00:00",
       "last_seen": "2026-08-10T21:22:23.682388+00:00"
+    },
+    {
+      "id": "7556137721549974098",
+      "topic": "ApplyTexas",
+      "fact": "ApplyTexas opening date for Fall 2027 is not stated in the provided results; the only ApplyTexas mention is Free College Application Week.",
+      "source": "Research brief",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193259+00:00",
+      "last_seen": "2026-08-10T23:32:08.193276+00:00"
+    },
+    {
+      "id": "6390499001573947185",
+      "topic": "UT Austin freshman admission",
+      "fact": "UT Austin Fall 2027 freshman application opened Saturday, August 1.",
+      "source": "S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193336+00:00",
+      "last_seen": "2026-08-10T23:32:08.193339+00:00"
+    },
+    {
+      "id": "2999233130128853237",
+      "topic": "Texas A&M freshman admission",
+      "fact": "Texas A&M freshman application opened August 1 for College Station, McAllen, and Galveston.",
+      "source": "S0",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193397+00:00",
+      "last_seen": "2026-08-10T23:32:08.193400+00:00"
+    },
+    {
+      "id": "2942769321142926804",
+      "topic": "Free College Application Week",
+      "fact": "Free College Application Week is October 11-17, 2027; ApplyTexas applications must be submitted by 11:59 p.m. CDT on the last day to qualify. The source labels it 2027 and does not explicitly tie it to Fall 2027 freshman admission.",
+      "source": "S2",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193458+00:00",
+      "last_seen": "2026-08-10T23:32:08.193460+00:00"
+    },
+    {
+      "id": "3202268998322801656",
+      "topic": "Deadlines",
+      "fact": "Priority and final deadlines for ApplyTexas, UT Austin, Texas A&M, and UT Dallas were not provided in the research results.",
+      "source": "Research brief",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193517+00:00",
+      "last_seen": "2026-08-10T23:32:08.193519+00:00"
+    },
+    {
+      "id": "3257516859339812270",
+      "topic": "Separate engineering/CS applications",
+      "fact": "Whether Texas public universities require separate engineering/CS applications or have earlier deadlines is not addressed in the provided results.",
+      "source": "Research brief",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193584+00:00",
+      "last_seen": "2026-08-10T23:32:08.193586+00:00"
+    },
+    {
+      "id": "6100377913918869092",
+      "topic": "UT Austin essays",
+      "fact": "UT Austin does not require the Common App Personal Essay; it has its own required essay prompts.",
+      "source": "https://generalacademic.com/college-essay-tips-common-app-and-more",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193661+00:00",
+      "last_seen": "2026-08-10T23:32:08.193663+00:00"
+    },
+    {
+      "id": "8374748884940262355",
+      "topic": "UT Austin short answer",
+      "fact": "UT Austin Short Answer #1 is \"Why are you interested in the major you indicated as your first-choice major?\" with a 250-300 word limit.",
+      "source": "https://www.collegeessayguy.com/blog/university-texas-austin-supplemental-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193723+00:00",
+      "last_seen": "2026-08-10T23:32:08.193726+00:00"
+    },
+    {
+      "id": "9154281942268972036",
+      "topic": "Texas A&M essays",
+      "fact": "Texas A&M does not require the Common App Personal Essay and has its own required prompts, but the prompt text was not shown in the provided results.",
+      "source": "https://generalacademic.com/college-essay-tips-common-app-and-more",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193788+00:00",
+      "last_seen": "2026-08-10T23:32:08.193791+00:00"
+    },
+    {
+      "id": "2841380629758842950",
+      "topic": "Rice University essays",
+      "fact": "Rice supplemental prompts include an academic interests question and a \"what elements of Rice appeal to you\" question, each with a 150-word limit.",
+      "source": "https://www.ivywise.com/blog/common-app-supplements",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193850+00:00",
+      "last_seen": "2026-08-10T23:32:08.193852+00:00"
+    },
+    {
+      "id": "4906771557578386242",
+      "topic": "Stanford essays",
+      "fact": "Stanford asks for three essays of 100-250 words each, including reflecting on an idea/experience that excites you about learning and a note to your future roommate.",
+      "source": "S5",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193912+00:00",
+      "last_seen": "2026-08-10T23:32:08.193914+00:00"
+    },
+    {
+      "id": "5993040443240663984",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "Breakthrough Junior Challenge awards $250,000 and is open to high school students; deadline is September 15, 2026.",
+      "source": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.193976+00:00",
+      "last_seen": "2026-08-10T23:32:08.193979+00:00"
+    },
+    {
+      "id": "124821673041296245",
+      "topic": "Edison Scholars Program",
+      "fact": "Edison Scholars Program awards $40,000 for a STEM degree, has a January 23 deadline, and is restricted to Southern California Edison's service territory.",
+      "source": "https://accessscholarships.com/blog/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194041+00:00",
+      "last_seen": "2026-08-10T23:32:08.194043+00:00"
+    },
+    {
+      "id": "1769660416547717441",
+      "topic": "Scholarship research",
+      "fact": "No other named national STEM scholarships with September/October 2026 deadlines appear in the provided results; an unnamed $2,000 scholarship is expected to open in October 2026.",
+      "source": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194107+00:00",
+      "last_seen": "2026-08-10T23:32:08.194109+00:00"
+    },
+    {
+      "id": "2964403857027135138",
+      "topic": "MALDEF scholarship guide",
+      "fact": "MALDEF's scholarship resource guide lists a Diversity Scholarship Foundation under October, but gives no award amount, deadline, or eligibility details.",
+      "source": "https://www.maldef.org/resources/scholarship-resource-guide-2026-2027",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194175+00:00",
+      "last_seen": "2026-08-10T23:32:08.194177+00:00"
     }
   ],
   "deadlines": [
@@ -869,6 +1004,33 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T21:22:23.682434+00:00",
       "last_seen": "2026-08-10T21:22:23.682435+00:00"
+    },
+    {
+      "id": "996545633171811454",
+      "title": "Breakthrough Junior Challenge application deadline",
+      "date": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194203+00:00",
+      "last_seen": "2026-08-10T23:32:08.194205+00:00"
+    },
+    {
+      "id": "3275111657190828336",
+      "title": "Edison Scholars Program application deadline",
+      "date": "2027-01-23",
+      "url": "https://accessscholarships.com/blog/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194226+00:00",
+      "last_seen": "2026-08-10T23:32:08.194228+00:00"
+    },
+    {
+      "id": "6305658267355343247",
+      "title": "Free College Application Week application deadline (ApplyTexas)",
+      "date": "2027-10-17",
+      "url": "",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194248+00:00",
+      "last_seen": "2026-08-10T23:32:08.194250+00:00"
     }
   ],
   "scholarships": [
@@ -970,6 +1132,39 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T21:22:23.682454+00:00",
       "last_seen": "2026-08-10T21:22:23.682456+00:00"
+    },
+    {
+      "id": "6125538700557919035",
+      "name": "Breakthrough Junior Challenge",
+      "amount": "$250,000",
+      "deadline": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "eligibility": "Open to high school students; not limited to seniors in source; no further eligibility details provided.",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194267+00:00",
+      "last_seen": "2026-08-10T23:32:08.194269+00:00"
+    },
+    {
+      "id": "7621870393260509764",
+      "name": "Edison Scholars Program",
+      "amount": "$40,000",
+      "deadline": "2027-01-23",
+      "url": "https://accessscholarships.com/blog/scholarships-for-high-school-seniors",
+      "eligibility": "For STEM degree; restricted to students in Southern California Edison's service territory (not national).",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194282+00:00",
+      "last_seen": "2026-08-10T23:32:08.194284+00:00"
+    },
+    {
+      "id": "7248712699209810597",
+      "name": "Diversity Scholarship Foundation",
+      "amount": "",
+      "deadline": "",
+      "url": "https://www.maldef.org/resources/scholarship-resource-guide-2026-2027",
+      "eligibility": "Not specified in provided source.",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T23:32:08.194297+00:00",
+      "last_seen": "2026-08-10T23:32:08.194299+00:00"
     }
   ],
   "coverage": {
@@ -1052,6 +1247,26 @@
     "What are the FAFSA and CSS Profile opening dates for the 2027-2028 academic year, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, and Carnegie Mellon for Fall 2027?": {
       "last_researched": "2026-08-10",
       "search_count": 2
+    },
+    "What are the recommendation letter requirements (number, who should write, submission method) for Fall 2027 Computer Science/Engineering programs at the student's top target schools (UT Austin, Texas A&M, Rice, Stanford, MIT, CMU, Georgia Tech, UIUC)?": {
+      "last_researched": "2026-08-10",
+      "search_count": 2
+    },
+    "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates and QuestBridge, and what are their eligibility requirements and award amounts?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "What are the FAFSA opening date for the 2027-2028 academic year, the CSS Profile opening date, and the priority financial aid deadlines for each of the student's target schools (UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, UIUC) for Fall 2027?": {
+      "last_researched": "2026-08-10",
+      "search_count": 1
+    },
+    "What are the specific essay prompts, word limits, and any supplemental short-answer questions for Fall 2027 freshman applications to UT Austin (Computer Science), Texas A&M (Engineering), Rice University (Computer Science), Stanford (Computer Science), MIT, and Carnegie Mellon (School of Computer Science)?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
     }
   },
   "digest_history": [
@@ -1121,6 +1336,23 @@
         "Which universities have launched new undergraduate Artificial Intelligence majors or concentrations for Fall 2027 admission, and what are their admission requirements, deadlines, and any portfolio requirements?",
         "What are the exact deadlines, eligibility criteria, and required materials for the Gates Scholarship Phase II (class of 2027), and what is the timeline for semifinalist and finalist notifications?",
         "What are the FAFSA and CSS Profile opening dates for the 2027-2028 academic year, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, and Carnegie Mellon for Fall 2027?"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "topics_covered": [
+        "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates and QuestBridge, and what are their eligibility requirements and award amounts?",
+        "What are the specific essay prompts, word limits, and any supplemental short-answer questions for Fall 2027 freshman applications to UT Austin (Computer Science), Texas A&M (Engineering), Rice University (Computer Science), Stanford (Computer Science), MIT, and Carnegie Mellon (School of Computer Science)?",
+        "What are the recommendation letter requirements (number, who should write, submission method) for Fall 2027 Computer Science/Engineering programs at the student's top target schools (UT Austin, Texas A&M, Rice, Stanford, MIT, CMU, Georgia Tech, UIUC)?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates and QuestBridge, and what are their eligibility requirements and award amounts?",
+        "What are the FAFSA opening date for the 2027-2028 academic year, the CSS Profile opening date, and the priority financial aid deadlines for each of the student's target schools (UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, UIUC) for Fall 2027?",
+        "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?",
+        "What are the specific essay prompts, word limits, and any supplemental short-answer questions for Fall 2027 freshman applications to UT Austin (Computer Science), Texas A&M (Engineering), Rice University (Computer Science), Stanford (Computer Science), MIT, and Carnegie Mellon (School of Computer Science)?",
+        "What are the recommendation letter requirements (number, who should write, submission method) for Fall 2027 Computer Science/Engineering programs at the student's top target schools (UT Austin, Texas A&M, Rice, Stanford, MIT, CMU, Georgia Tech, UIUC)?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates and QuestBridge, and what are their eligibility requirements and award amounts?",
+        "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?",
+        "What are the specific essay prompts, word limits, and any supplemental short-answer questions for Fall 2027 freshman applications to UT Austin (Computer Science), Texas A&M (Engineering), Rice University (Computer Science), Stanford (Computer Science), MIT, and Carnegie Mellon (School of Computer Science)?"
       ]
     }
   ]
