@@ -1,0 +1,19 @@
+# Secrets / credentials
+.env
+*.local
+credentials.json
+token.json
+
+# opencode local runtime (kept for local CLI only)
+.opencode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

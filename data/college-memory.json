@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "last_run": "2026-08-10T20:07:11.425133+00:00",
+    "run_count": 2
+  },
+  "profile": {},
+  "interests": [
+    {
+      "name": "Computer Science",
+      "strength": 2,
+      "last_seen": "2026-08-10T20:05:38.878973+00:00"
+    },
+    {
+      "name": "Engineering",
+      "strength": 2,
+      "last_seen": "2026-08-10T20:05:38.878981+00:00"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "strength": 1,
+      "last_seen": "2026-08-10T20:05:38.878976+00:00"
+    },
+    {
+      "name": "Data Science",
+      "strength": 1,
+      "last_seen": "2026-08-10T20:05:38.878978+00:00"
+    }
+  ],
+  "open_questions": [],
+  "knowledge": [
+    {
+      "id": "2355119387789839438",
+      "topic": "UT Austin Graduate CS Application",
+      "fact": "UT Austin MS Computer Science applicants must use the UT Austin Graduate School application at cs.utexas.edu/graduate/apply.",
+      "source": "https://www.cs.utexas.edu/graduate/apply",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.414993+00:00",
+      "last_seen": "2026-08-10T20:05:22.415005+00:00"
+    },
+    {
+      "id": "1077514395967047364",
+      "topic": "UT Austin Undergraduate Fall 2027",
+      "fact": "UT Austin is now accepting applications for Fall 2027 admission; no specific priority/final dates were provided in the source.",
+      "source": "https://www.collegematchpoint.com/applying-to-ut-austin-this-fall-focus-on-these-four-priorities",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415013+00:00",
+      "last_seen": "2026-08-10T20:05:22.415015+00:00"
+    },
+    {
+      "id": "7124173908898165877",
+      "topic": "Texas A&M Freshman Application",
+      "fact": "Texas A&M's Fall 2027 freshman application opens August 1, 2026 for College Station, McAllen, and Galveston.",
+      "source": "https://admissions.tamu.edu/apply/freshman/index.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415020+00:00",
+      "last_seen": "2026-08-10T20:05:22.415022+00:00"
+    },
+    {
+      "id": "353213819399504278",
+      "topic": "Texas A&M Admission Decisions",
+      "fact": "Texas A&M application acknowledgement emails begin September 1, and admission decisions begin in September for Top 10% applicants.",
+      "source": "https://admissions.tamu.edu/apply/freshman/index.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415025+00:00",
+      "last_seen": "2026-08-10T20:05:22.415027+00:00"
+    },
+    {
+      "id": "9011610795204267004",
+      "topic": "Texas A&M Galveston Application Platforms",
+      "fact": "Texas A&M Galveston freshmen can apply through Common App and ApplyTexas.",
+      "source": "https://www.tamu.edu/admissions/how-to-apply/apply-as-freshman.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415030+00:00",
+      "last_seen": "2026-08-10T20:05:22.415031+00:00"
+    },
+    {
+      "id": "7862878251666547183",
+      "topic": "Rice University Application Platforms",
+      "fact": "Rice University is available on the Common App.",
+      "source": "https://www.commonapp.org/explore/rice-university",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415035+00:00",
+      "last_seen": "2026-08-10T20:05:22.415036+00:00"
+    },
+    {
+      "id": "5095801195839229980",
+      "topic": "Rice University Decision Plans",
+      "fact": "Rice offers binding Early Decision and Regular Decision.",
+      "source": "https://toptieradmissions.com/resources/college-admissions-summaries/rice-university-admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415040+00:00",
+      "last_seen": "2026-08-10T20:05:22.415041+00:00"
+    },
+    {
+      "id": "5841681413009179570",
+      "topic": "Rice University Test Policy",
+      "fact": "Rice recommends SAT or ACT scores if available, but students who cannot or prefer not to submit scores receive full consideration.",
+      "source": "https://www.questbridge.org/partners/college-partners/rice-university/application-requirements",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415044+00:00",
+      "last_seen": "2026-08-10T20:05:22.415046+00:00"
+    },
+    {
+      "id": "2993991110079649981",
+      "topic": "Rice University Test Codes",
+      "fact": "Rice's SAT code is 6609 and ACT code is 4152.",
+      "source": "https://www.questbridge.org/partners/college-partners/rice-university/application-requirements",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415050+00:00",
+      "last_seen": "2026-08-10T20:05:22.415051+00:00"
+    },
+    {
+      "id": "4082760428537075464",
+      "topic": "STEM scholarship",
+      "fact": "Geotex Engineering '15 for 15' STEM Scholarship Program was for North Texas high school seniors and was completed as of May 2025.",
+      "source": "https://geotex-engineering.com/geotex-awards-15-stem-scholarships-to-north-texas-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878812+00:00",
+      "last_seen": "2026-08-10T20:05:38.878827+00:00"
+    },
+    {
+      "id": "4145758445410329190",
+      "topic": "STEM scholarship eligibility",
+      "fact": "Dr. Frederick Jones Sr. Family Scholarship Fund is for graduating seniors from Duncanville, DeSoto, Cedar Hill, and Lancaster, TX pursuing STEM or medicine.",
+      "source": "https://www.cftexas.org/scholarships/apply-for-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878836+00:00",
+      "last_seen": "2026-08-10T20:05:38.878837+00:00"
+    },
+    {
+      "id": "2619781872344317383",
+      "topic": "STEM scholarship eligibility",
+      "fact": "RESPEC STEM Scholarship is open to high school seniors in STEM fields.",
+      "source": "https://www.fastweb.com/college-scholarships/articles/stem-field-scholarships-and-internships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878842+00:00",
+      "last_seen": "2026-08-10T20:05:38.878844+00:00"
+    },
+    {
+      "id": "7477067940532037530",
+      "topic": "Engineering scholarship",
+      "fact": "Ingram Engineering Scholarship offers up to $32,000 for engineering majors; no Texas-specific eligibility or deadline was provided.",
+      "source": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878849+00:00",
+      "last_seen": "2026-08-10T20:05:38.878851+00:00"
+    },
+    {
+      "id": "5793599981267357979",
+      "topic": "Admissions technology",
+      "fact": "Virginia Tech, Caltech, and UNC have admitted to using AI in the freshman admissions process.",
+      "source": "https://www.saraharberson.com/blog/questions-facing-the-class-of-2027-and-answers",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878856+00:00",
+      "last_seen": "2026-08-10T20:05:38.878857+00:00"
+    },
+    {
+      "id": "985018467491256785",
+      "topic": "Test policy",
+      "fact": "WashU is test-optional for applicants entering in fall 2027; students who do not submit scores have the test score requirement automatically waived.",
+      "source": "https://bulletin.wustl.edu/undergrad/admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878863+00:00",
+      "last_seen": "2026-08-10T20:05:38.878865+00:00"
+    },
+    {
+      "id": "7260662628074565361",
+      "topic": "CS application essays",
+      "fact": "CS applicants need genuinely specific 'Why CS' and 'Why This School' essays; generic statements like 'I love technology and problem solving' do not stand out.",
+      "source": "https://acceptedx.com/blogs/best-colleges-for-computer-science-students-2026-2027",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878871+00:00",
+      "last_seen": "2026-08-10T20:05:38.878872+00:00"
+    },
+    {
+      "id": "7581731239318856506",
+      "topic": "UT Austin admissions",
+      "fact": "UT Austin is accepting applications for Fall 2027 admission and describes the cycle as highly competitive.",
+      "source": "https://www.collegematchpoint.com/applying-to-ut-austin-this-fall-focus-on-these-four-priorities",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878878+00:00",
+      "last_seen": "2026-08-10T20:05:38.878879+00:00"
+    },
+    {
+      "id": "4865434376793390900",
+      "topic": "UT Austin admission deadlines",
+      "fact": "The only explicit Fall 2027 priority deadline in the provided results is for the graduate MS Computer Science program, not undergraduate admission.",
+      "source": "https://collegedunia.com/usa/university/952-university-of-texas-austin/admission",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878885+00:00",
+      "last_seen": "2026-08-10T20:05:38.878887+00:00"
+    },
+    {
+      "id": "7443968372991161604",
+      "topic": "UT Austin graduate application",
+      "fact": "UT Austin MS CS applicants apply through UT Austin's Graduate School and follow key dates, eligibility requirements, and step-by-step guidance.",
+      "source": "https://www.cs.utexas.edu/graduate/apply",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878893+00:00",
+      "last_seen": "2026-08-10T20:05:38.878895+00:00"
+    },
+    {
+      "id": "5902807921862209975",
+      "topic": "Texas A&M freshman application",
+      "fact": "Texas A&M Fall 2027 freshman application opens August 1, 2026 for College Station, McAllen, and Galveston.",
+      "source": "https://admissions.tamu.edu/apply/freshman/index.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878901+00:00",
+      "last_seen": "2026-08-10T20:05:38.878903+00:00"
+    },
+    {
+      "id": "4530681584396388912",
+      "topic": "Graduate data science programs",
+      "fact": "UC Irvine offers a Master of Data Science program, which is graduate-level, not freshman-entry.",
+      "source": "https://mds.ics.uci.edu/admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878910+00:00",
+      "last_seen": "2026-08-10T20:05:38.878911+00:00"
+    },
+    {
+      "id": "2021760333098493907",
+      "topic": "Graduate data science programs",
+      "fact": "University of San Francisco offers an MS in Data Science & Artificial Intelligence, which is graduate-level, not freshman-entry.",
+      "source": "https://www.usfca.edu/arts-sciences/programs/graduate/data-science-artificial-intelligence/how-to-apply",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878918+00:00",
+      "last_seen": "2026-08-10T20:05:38.878920+00:00"
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "5011547892875311329",
+      "title": "UT Austin Graduate MS Computer Science Priority Deadline (Fall 2027)",
+      "date": "2027-03-15",
+      "url": "https://collegedunia.com/usa/university/952-university-of-texas-austin/admission",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415055+00:00",
+      "last_seen": "2026-08-10T20:05:22.415056+00:00"
+    },
+    {
+      "id": "2369839797449007114",
+      "title": "UT Austin Graduate MS Computer Science Final Deadline (Fall 2027)",
+      "date": "2027-04-15",
+      "url": "https://collegedunia.com/usa/university/952-university-of-texas-austin/admission",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415060+00:00",
+      "last_seen": "2026-08-10T20:05:22.415061+00:00"
+    },
+    {
+      "id": "1293722717802957611",
+      "title": "Texas A&M Engineering Priority Deadline (Fall 2027)",
+      "date": "2026-10-15",
+      "url": "https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415064+00:00",
+      "last_seen": "2026-08-10T20:05:22.415065+00:00"
+    },
+    {
+      "id": "4743035876067105053",
+      "title": "Texas A&M Freshman Application Final Deadline (Fall 2027)",
+      "date": "2026-12-01",
+      "url": "https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415068+00:00",
+      "last_seen": "2026-08-10T20:05:22.415069+00:00"
+    },
+    {
+      "id": "1185449163674762000",
+      "title": "Texas A&M Galveston Fall 2027 Application Deadline",
+      "date": "2027-05-01",
+      "url": "https://www.tamu.edu/admissions/how-to-apply/apply-as-freshman.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415073+00:00",
+      "last_seen": "2026-08-10T20:05:22.415074+00:00"
+    },
+    {
+      "id": "7257382716394475600",
+      "title": "Texas A&M Galveston Fall 2027 Required Documents Deadline",
+      "date": "2027-05-15",
+      "url": "https://www.tamu.edu/admissions/how-to-apply/apply-as-freshman.html",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415078+00:00",
+      "last_seen": "2026-08-10T20:05:22.415079+00:00"
+    },
+    {
+      "id": "7592631878168574792",
+      "title": "Rice University Early Decision Deadline (Fall 2027)",
+      "date": "2026-11-01",
+      "url": "https://toptieradmissions.com/resources/college-admissions-summaries/rice-university-admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:22.415082+00:00",
+      "last_seen": "2026-08-10T20:05:22.415083+00:00"
+    },
+    {
+      "id": "6171945589805001215",
+      "title": "UT Austin MS Computer Science Fall 2027 priority deadline",
+      "date": "2027-03-15",
+      "url": "https://collegedunia.com/usa/university/952-university-of-texas-austin/admission",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878933+00:00",
+      "last_seen": "2026-08-10T20:05:38.878934+00:00"
+    }
+  ],
+  "scholarships": [
+    {
+      "id": "5666389780531933028",
+      "name": "Geotex Engineering '15 For 15' Stem Scholarship Program",
+      "amount": "",
+      "deadline": "",
+      "url": "https://geotex-engineering.com/geotex-awards-15-stem-scholarships-to-north-texas-high-school-seniors",
+      "eligibility": "North Texas high school seniors in STEM",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878945+00:00",
+      "last_seen": "2026-08-10T20:05:38.878946+00:00"
+    },
+    {
+      "id": "2909272078613684805",
+      "name": "Dr. Frederick Jones Sr. Family Scholarship Fund",
+      "amount": "",
+      "deadline": "",
+      "url": "https://www.cftexas.org/scholarships/apply-for-scholarships",
+      "eligibility": "Graduating seniors from Duncanville, DeSoto, Cedar Hill, and Lancaster, TX pursuing STEM or medicine",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878951+00:00",
+      "last_seen": "2026-08-10T20:05:38.878952+00:00"
+    },
+    {
+      "id": "3138936639727219505",
+      "name": "Ingram Engineering Scholarship",
+      "amount": "Up to $32,000",
+      "deadline": "",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "eligibility": "Engineering majors; no Texas-specific eligibility provided",
+      "weight": 1.0,
+      "first_seen": "2026-08-10T20:05:38.878962+00:00",
+      "last_seen": "2026-08-10T20:05:38.878963+00:00"
+    }
+  ],
+  "coverage": {
+    "What are UT Austin's Fall 2027 priority deadlines and application requirements for Computer Science?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "What Texas STEM scholarships for high school seniors have application deadlines within the next 60 days?": {
+      "last_researched": "2026-08-10",
+      "search_count": 2
+    },
+    "Which top CS/AI/data science programs offer direct admission to freshmen for Fall 2027, and what are their test policies and essay requirements?": {
+      "last_researched": "2026-08-10",
+      "search_count": 2
+    },
+    "What are Texas A&M's Fall 2027 engineering admissions deadlines and holistic review requirements for first-year applicants?": {
+      "last_researched": "2026-08-10",
+      "search_count": 3
+    },
+    "What are Rice University's Fall 2027 early decision deadlines and CS/engineering application requirements?": {
+      "last_researched": "2026-08-10",
+      "search_count": 2
+    }
+  },
+  "digest_history": [
+    {
+      "date": "2026-08-10",
+      "topics_covered": [
+        "What are UT Austin's Fall 2027 priority deadlines and application requirements for Computer Science?",
+        "What are Texas A&M's Fall 2027 engineering admissions deadlines and holistic review requirements for first-year applicants?",
+        "What are Rice University's Fall 2027 early decision deadlines and CS/engineering application requirements?",
+        "Which top CS/AI/data science programs offer direct admission to freshmen for Fall 2027, and what are their test policies and essay requirements?",
+        "What Texas STEM scholarships for high school seniors have application deadlines within the next 60 days?",
+        "What are UT Austin's Fall 2027 priority deadlines and application requirements for Computer Science?",
+        "What are Texas A&M's Fall 2027 engineering admissions deadlines and holistic review requirements for first-year applicants?",
+        "What are Rice University's Fall 2027 early decision deadlines and CS/engineering application requirements?",
+        "What Texas STEM scholarships for high school seniors have application deadlines within the next 60 days?",
+        "Which top CS/AI/data science programs offer direct admission to freshmen for Fall 2027, and what are their test policies and essay requirements?",
+        "What are UT Austin's Fall 2027 priority deadlines and application requirements for Computer Science?",
+        "What are Texas A&M's Fall 2027 engineering admissions deadlines and holistic review requirements for first-year applicants?"
+      ]
+    }
+  ]
+}

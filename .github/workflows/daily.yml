@@ -1,0 +1,53 @@
+name: College Scout - Daily Research
+
+on:
+  schedule:
+    # 06:30 UTC = 1:30 AM CDT / 2:30 AM EDT. Daily.
+    - cron: '30 6 * * *'
+  workflow_dispatch: # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: college-scout-daily
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run college research agents
+        env:
+          # Single key, or comma-separated list for multi-key load balancing
+          OPENCODE_API_KEYS: ${{ secrets.OPENCODE_API_KEYS }}
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          GMAIL_SMTP_USER: ${{ secrets.GMAIL_SMTP_USER }}
+          GMAIL_SMTP_PASS: ${{ secrets.GMAIL_SMTP_PASS }}
+          GMAIL_SMTP_TO: ${{ secrets.GMAIL_SMTP_TO }}
+        run: |
+          python run_daily.py || echo "::warning::College research run failed"
+
+      - name: Persist memory (self-improvement across days)
+        run: |
+          git config user.name "college-scout-bot"
+          git config user.email "college-scout-bot@users.noreply.github.com"
+          git add data/college-memory.json data/college-digest.md
+          git diff --cached --quiet || git commit -m "chore: daily college scout memory update ($(date -u +%Y-%m-%d))"
+          git push

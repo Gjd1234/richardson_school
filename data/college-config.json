@@ -1,0 +1,43 @@
+{
+  "student": {
+    "name": "",
+    "graduation_year": 2027,
+    "high_school": "Richardson High School",
+    "state": "Texas",
+    "focus": ["tech", "STEM"],
+    "interests": ["computer science", "AI", "engineering", "data science"],
+    "target_states": [],
+    "notes": "Senior starting college application season Fall 2026 for Fall 2027 enrollment."
+  },
+  "ambassador": {
+    "signals": ["texas", "national merit", "first generation", "low income", "stem", "university of texas"]
+  },
+  "llm": {
+    "api_base": "https://opencode.ai/zen/v1",
+    "models": {
+      "reasoning": "zen-nemotron-3-ultra-free",
+      "research": "zen-deepseek-v4-flash-free",
+      "fast": "zen-ling-3.0-tiny-free"
+    },
+    "rotation": [
+      "deepseek-v4-flash-free",
+      "nemotron-3-ultra-free",
+      "mimo-v2.5-free",
+      "big-pickle",
+      "ling-3.0-flash-free",
+      "ling-3.0-tiny-free"
+    ]
+  },
+  "search": {
+    "max_results": 6,
+    "max_searches_per_agent": 4,
+    "tavily": true,
+    "duckduckgo_fallback": true
+  },
+  "digest": {
+    "output_file": "data/college-digest.md",
+    "email_to": "",
+    "smtp_from": "",
+    "subject_prefix": "College Scout Daily"
+  }
+}
