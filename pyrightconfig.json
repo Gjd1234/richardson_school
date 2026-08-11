@@ -1,0 +1,9 @@
+{
+  "include": ["college_agents", "run_daily.py"],
+  "exclude": ["**/__pycache__", ".opencode", ".venv", "data"],
+  "pythonVersion": "3.12",
+  "venvPath": "/home/gvincent/.venv",
+  "venv": "",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": true
+}

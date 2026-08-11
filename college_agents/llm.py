@@ -79,15 +79,16 @@ def _rotation() -> list[str]:
 
 def _client_for(model: str, key: str, temperature: float, **kw: Any) -> ChatOpenAI:
     base = llm_config().get("api_base", "https://opencode.ai/zen/v1")
-    return ChatOpenAI(
-        model=model,
-        base_url=base,
-        api_key=key,
-        temperature=temperature,
-        max_tokens=kw.pop("max_tokens", 3072),
-        timeout=kw.pop("timeout", 120),
+    opts: dict[str, Any] = {
+        "model": model,
+        "base_url": base,
+        "api_key": key,
+        "temperature": temperature,
+        "max_tokens": kw.pop("max_tokens", 3072),
+        "timeout": kw.pop("timeout", 120),
         **kw,
-    )
+    }
+    return ChatOpenAI(**opts)
 
 
 class RotatingChatModel(BaseChatModel):

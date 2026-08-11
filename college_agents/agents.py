@@ -18,7 +18,7 @@ import operator
 import pathlib
 import re
 from datetime import datetime
-from typing import Annotated, TypedDict
+from typing import Annotated, TypedDict, cast
 
 from langgraph.graph import END, START, StateGraph
 
@@ -57,9 +57,29 @@ def _blank_store() -> mem.MemoryStore:
     return mem.MemoryStore(root / "data" / "college-memory.json")
 
 
+def _content_str(content: object) -> str:
+    """Normalize an LLM response's `.content` (str | list of parts) to str."""
+    if isinstance(content, list):
+        parts = []
+        for p in content:
+            if isinstance(p, dict):
+                parts.append(str(p.get("text", "")))
+            else:
+                parts.append(str(p))
+        return "".join(parts)
+    return str(content or "")
+
+
+def _shared_store(state: CollegeState) -> mem.MemoryStore:
+    store = state.get("store")
+    if isinstance(store, mem.MemoryStore):
+        return store
+    return _blank_store()
+
+
 # ----------------------------------------------------------------- planner --
 def planner(state: CollegeState) -> dict:
-    store: mem.MemoryStore = state.get("store") or _blank_store()
+    store = _shared_store(state)
     profile = state.get("profile") or _profile()
     year = profile.get("graduation_year", 2027)
     today = datetime.now().strftime("%B %d, %Y")
@@ -90,7 +110,7 @@ def planner(state: CollegeState) -> dict:
                  f"Plan today's research questions for a {year} Texas senior (tech/STEM focus).")
 
     llm = get_model("research", temperature=0.1)
-    raw = llm.invoke(system + "\n\n" + user).content or "{}"
+    raw = _content_str(llm.invoke(system + "\n\n" + user).content)
     try:
         questions = json.loads(re.sub(r"^```(?:json)?|```$", "", raw.strip()).strip())["questions"]
     except (json.JSONDecodeError, KeyError, TypeError):
@@ -121,7 +141,7 @@ def _make_researcher(role: str, system_tpl: str):
         year = profile.get("graduation_year", 2027)
         today = datetime.now().strftime("%B %d, %Y")
         questions = state.get("questions", [])
-        store: mem.MemoryStore = state.get("store") or _blank_store()
+        store = _shared_store(state)
         from college_agents import prompts, search
 
         config = json.loads((pathlib.Path(__file__).resolve().parent.parent / "data" / "college-config.json").read_text())
@@ -156,7 +176,7 @@ def _make_researcher(role: str, system_tpl: str):
             )
             try:
                 res = llm.invoke(system + "\n\n" + prompt_user)
-                briefs.append((q, res.content or ""))
+                briefs.append((q, _content_str(res.content)))
             except Exception as exc:  # noqa: BLE001 - keep going if one question fails
                 briefs.append((q, f"_Research error: {exc}._"))
 
@@ -199,7 +219,7 @@ def _record_findings(store: mem.MemoryStore, role: str, combined: str) -> None:
     )
     try:
         import json
-        raw = llm.invoke(prompt).content or "{}"
+        raw = _content_str(llm.invoke(prompt).content)
         parsed = json.loads(re.sub(r"^```(?:json)?|```$", "", raw.strip()).strip())
     except Exception:  # noqa: BLE001 - extraction is best-effort
         return
@@ -267,7 +287,7 @@ admissions_researcher = _make_researcher(
 
 # --------------------------------------------------------------- analyst ---
 def analyst(state: CollegeState) -> dict:
-    store: mem.MemoryStore = state.get("store") or _blank_store()
+    store = _shared_store(state)
     profile = state.get("profile") or _profile()
     year = profile.get("graduation_year", 2027)
     today = datetime.now().strftime("%B %d, %Y")
@@ -277,7 +297,7 @@ def analyst(state: CollegeState) -> dict:
     scholarships = briefs.get("scholarships", "")
     admissions = briefs.get("admissions", "")
 
-    from college_agents import prompts, search
+    from college_agents import prompts
 
     deadlines = store.upcoming_deadlines(90)
     scls = store.upcoming_scholarships(90)
@@ -303,7 +323,7 @@ def analyst(state: CollegeState) -> dict:
     llm = get_model("research", temperature=0.3)
     digest = ""
     for attempt in range(2):  # retry once if the free model returns too little
-        digest = (llm.invoke(system + "\n\n" + user).content or "").strip()
+        digest = _content_str(llm.invoke(system + "\n\n" + user).content).strip()
         if len(digest) >= 300:
             break
         if attempt == 0:
@@ -341,13 +361,13 @@ def build_graph():
 def run(profile: dict | None = None) -> dict:
     """Execute the full daily workflow; returns state incl. digest."""
     store = _blank_store()
-    state_in = {"profile": profile or _profile(), "store": store}
+    state_in: CollegeState = {"profile": profile or _profile(), "store": store}
     graph = build_graph()
-    result = graph.invoke(state_in)
+    result: CollegeState = cast(CollegeState, graph.invoke(state_in))
     result.setdefault("digest", "")
     result.setdefault("coverage", [])
     # final memory maintenance (researchers already wrote to this shared store)
     store.prune()
     store.save()
     result["store"] = store
-    return result
+    return dict(result)
