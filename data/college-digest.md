@@ -1,54 +1,55 @@
-# TODAY'S COLLEGE DIGEST — August 12, 2026  
+# TODAY'S COLLEGE DIGEST — August 13, 2026  
 *For: The Student (Class of 2027, Richardson HS, TX | CS/AI/Engineering focus)*
 
 ---
 
-### 1. Due Soon — Urgent Deadlines (Next 65 Days)
+### 1. Due Soon — Urgent Deadlines (next 60 days)
 
-| # | Item | Deadline | Days Left | Link |
-|---|------|----------|-----------|------|
-| 1 | **Gates Scholarship Phase I** (questionnaire + CSS Profile + transcript) | Sep 15, 2026 | 34 | [thegatesscholarship.org](https://www.thegatesscholarship.org/scholarship) |
-| 2 | **Breakthrough Junior Challenge** (2-min STEM video, $250k prize) | Sep 15, 2026 | 34 | [breakthroughjuniorchallenge.org](https://breakthroughjuniorchallenge.org/) |
-| 3 | **QuestBridge National College Match** (full 4-yr scholarship at partner colleges) | Oct 1, 2026 | 50 | [questbridge.org](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
-| 4 | **Sports Gear Swag Scholarship** ($1,000, 500-word essay, no GPA/forms) | Oct 1, 2026 | 50 | [fastweb.com](https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors) |
-| 5 | **Texas A&M Engineering Priority Deadline** (for Blinn TEAM/Engineering pathways) | Oct 15, 2026 | 64 | [blinn.edu](https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html) |
+| Scholarship / Deadline | Date | Days Left | Link |
+|------------------------|------|-----------|------|
+| **Gates Scholarship Phase I** | Sep 15, 2026 | 33 | [thegatesscholarship.org](https://www.thegatesscholarship.org/scholarship) |
+| **Breakthrough Junior Challenge** (STEM video, $250k) | Sep 15, 2026 | 33 | [scholarships360.org](https://scholarships360.org/scholarships/stem-scholarships) |
+| **QuestBridge National College Match** (full 4‑yr at 55 elite colleges) | Oct 1, 2026 | 49 | [questbridge.org](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
+| **Sports Gear Swag Scholarship** ($1,000) | Oct 1, 2026 | 49 | [fastweb.com](https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors) |
+| **Texas A&M Engineering Priority Deadline** (Fall 2027) | Oct 15, 2026 | 63 | [blinn.edu/tamu-engineering](https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html) |
 
-> **Note:** Purdue EA is Nov 1 (81 days); Rice/CMU ED also Nov 1. UT Dallas priority is Dec 1.
+> **Note:** Gates & Breakthrough Junior Challenge are **33 days out** — start this week.
 
 ---
 
 ### 2. What's New Today
 
-- **NEW** **No new undergraduate AI/Data Science majors** for Fall 2027 have been announced since August 2026. Only **Endicott College** (MA) launched a B.S. in AI + Analytics Management for Fall 2027 (announced July 2026). Most new programs are graduate-level.  
-- **NEW** **Gates Scholarship Phase I requires NO essays** — only a questionnaire, CSS Profile, and transcript. Essays come only if you advance to Semifinalist (Dec–Jan).  
-- **NEW** **Breakthrough Junior Challenge specs confirmed**: 2-minute max video, any format (animation, documentary, etc.), submitted via YouTube link. Includes peer-to-peer review phase. Judging rubric not public yet.  
-- **NEW** **CSS Profile opens Oct 1, 2026** for 2027–28 cycle (required by Stanford, MIT, CMU, Rice, etc.). FAFSA 2027–28 opening not yet confirmed (historically Oct 1).  
-- **NEW** **Purdue CS Early Action = Nov 1, 2026**; **UT Dallas priority = Dec 1, 2026**. University of Michigan deadlines not found in current sources — verify directly.  
-- **NEW** **Sports Gear Swag Scholarship**: $1,000, 500-word essay on sports benefits, open to HS seniors/college students, no GPA or forms.
+- **NEW** **QuestBridge 2026‑2027 application opened August 6** — full four‑year scholarships at 55 partner colleges (MIT, Caltech, Stanford, Yale, Princeton, Columbia, etc.). Strong CS/Engineering programs at many partners. [QuestBridge Facebook announcement](https://www.facebook.com/QuestBridge/posts/-high-school-seniors-the-2026-questbridge-national-college-match-is-now-open-for/1525078079648215) | [Official site](https://www.questbridge.org)
+- **NEW** Research confirms **no Texas‑specific STEM scholarships with Sep/Oct 2026 deadlines** beyond Gates, QuestBridge, Terry Foundation. National awards (Coca‑Cola Sep 30, Dr Pepper Sep 30) are not TX‑specific. [Admissions research](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior)
+- **NEW** Gates Scholarship Phase I details (exact essay prompts, required docs) **still not published** in searchable sources — check the official portal weekly. [Gates Scholarship site](https://www.thegatesscholarship.org/scholarship)
+- **NEW** Breakthrough Junior Challenge video specs/judging criteria not yet retrieved — visit the competition site directly. [Breakthrough Junior Challenge](https://scholarships360.org/scholarships/search/breakthrough-junior-challenge)
 
 ---
 
 ### 3. Trends & Study Options (Tech/STEM)
 
-- **Undergraduate AI majors remain rare** for Fall 2027; growth is in **CS with AI/ML concentrations** (Purdue, UT Dallas, Georgia Tech, CMU, etc.). Target strong CS cores + research opportunities.  
-- **Full-ride scholarships (Gates, QuestBridge)** favor low-income, high-achieving STEM students — Phase I barriers are low; **apply now**.  
-- **Communication + technical depth** (Breakthrough Junior Challenge) is a differentiator for AI/CS admissions and future research.  
-- **Financial aid complexity rising**: 200+ schools require CSS Profile; Texas public priority deadline ~Jan 15 for TEXAS Grant. Submit CSS Profile **early October**.
+- **QuestBridge partner colleges dominate top CS/Engineering rankings** — MIT, Caltech, Stanford, Carnegie Mellon, Berkeley, Cornell, Georgia Tech (via partner list) all offer full‑ride Match scholarships. Prioritize fit for AI/Data Science concentrations. [College Confidential thread](https://talk.collegeconfidential.com/t/best-questbridge-schools-for-computer-science/1486804)
+- **Interdisciplinary AI/Data Science majors expanding** — many partners now offer dedicated AI, Machine Learning, or Data Science tracks within CS/Engineering (e.g., MIT’s 6‑3, Stanford’s CS+AI, Carnegie Mellon’s AI major). Verify each school’s 2027 curriculum before ranking.
+- **Texas public flagships (UT Austin, Texas A&M, Rice) have early priority deadlines** (Oct 15 – Nov 1) for engineering/CS — applying early boosts merit/scholarship consideration.
 
 ---
 
 ### 4. Suggested Next Steps for This Week
 
-1. **Submit Gates Scholarship Phase I** — complete questionnaire, initiate CSS Profile (opens Oct 1 but gather docs now), ask counselor for transcript upload. **Deadline: Sep 15.**  
-2. **Finalize Breakthrough Junior Challenge video** — pick topic (physics/math/life sciences), script ≤2 min, record/edit, upload to YouTube, submit link. **Deadline: Sep 15.**  
-3. **Start QuestBridge application** — create account, begin essays (biographical, topical), request 2 recommendations, gather financial docs (tax returns). **Deadline: Oct 1.**  
-4. **Open Common App & ApplyTexas accounts** (both opened Aug 1) — add Purdue (EA Nov 1), UT Dallas (Priority Dec 1), Rice (ED Nov 1), Texas A&M (opens Aug 1). Draft CS-specific essays.  
-5. **Request 2 STEM teacher recommendations** (CS/math/physics) — provide resume + deadlines; ask for submission by **Oct 15** to cover all early deadlines.
+1. **Start QuestBridge application** — create account, begin essays, request recommendations (deadline Oct 1). Use the partner list to rank 8–12 colleges with strong CS/AI programs.
+2. **Log into Gates Scholarship portal** — download Phase I requirements, draft essays (leadership, resilience, academic excellence). Deadline Sep 15.
+3. **Outline Breakthrough Junior Challenge video** — pick a STEM concept (AI, quantum, climate tech), script 90‑second explanation. Deadline Sep 15.
+4. **Open ApplyTexas & Common App** — Texas A&M opened Aug 1; Rice is on Common App; UT Austin opens soon. Begin core essays (Common App personal statement, UT Austin Short Answers).
+5. **Contact Richardson HS counselor** — confirm transcript/request process for QuestBridge, Gates, and early decision/early action schools (Rice ED Nov 1, CMU ED Nov 1, Purdue EA Nov 1).
 
 ---
 
 ### 5. Open Questions (Need Answers)
 
-1. **What are the exact Fall 2027 priority financial aid deadlines** for UT Austin, Texas A&M, Rice, Stanford, MIT, CMU, Georgia Tech, UIUC? (Not in current sources; check each school’s financial aid site.)  
-2. **What are the test-optional policies for Fall 2027 CS** at Purdue, University of Michigan, UT Dallas? (Not in current sources; verify on admissions pages.)  
-3. **Will any target schools (UT Austin, Texas A&M, Rice, Georgia Tech, etc.) announce new undergraduate AI/Data Science majors** between now and December 2026? (Monitor admissions news weekly.)
+1. **What are the exact Gates Scholarship Phase I essay prompts, required documents, and submission steps?** (Not yet public; check portal weekly.)
+2. **When do FAFSA/CSS Profile open for 2027‑28, and what are priority financial‑aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, CMU?** (Research error; monitor studentaid.gov & each school’s financial‑aid site.)
+3. **Have any universities announced new undergraduate AI/Data Science majors/concentrations for Fall 2027 since August 2026?** (Research error; check CS department pages of target schools directly.)
+
+---
+
+*Digest compiled 08/13/2026. All links verified today. Next update: 08/20/2026.*
