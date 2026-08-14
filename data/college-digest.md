@@ -1,55 +1,63 @@
-# TODAY'S COLLEGE DIGEST — August 13, 2026  
-*For: The Student (Class of 2027, Richardson HS, TX | CS/AI/Engineering focus)*
+# TODAY'S COLLEGE DIGEST — August 14, 2026  
+**Student:** Class of 2027 | Richardson High School (TX) | STEM/CS/AI focus  
 
 ---
 
-### 1. Due Soon — Urgent Deadlines (next 60 days)
+### 1. Due Soon — Urgent Deadlines (closest first)
 
 | Scholarship / Deadline | Date | Days Left | Link |
 |------------------------|------|-----------|------|
-| **Gates Scholarship Phase I** | Sep 15, 2026 | 33 | [thegatesscholarship.org](https://www.thegatesscholarship.org/scholarship) |
-| **Breakthrough Junior Challenge** (STEM video, $250k) | Sep 15, 2026 | 33 | [scholarships360.org](https://scholarships360.org/scholarships/stem-scholarships) |
-| **QuestBridge National College Match** (full 4‑yr at 55 elite colleges) | Oct 1, 2026 | 49 | [questbridge.org](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
-| **Sports Gear Swag Scholarship** ($1,000) | Oct 1, 2026 | 49 | [fastweb.com](https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors) |
-| **Texas A&M Engineering Priority Deadline** (Fall 2027) | Oct 15, 2026 | 63 | [blinn.edu/tamu-engineering](https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html) |
+| **Gates Scholarship (Phase I)** | Sep 15, 2026 | 32 | <https://www.thegatesscholarship.org/scholarship> |
+| **Breakthrough Junior Challenge** | Sep 15, 2026 | 32 | <https://scholarships360.org/scholarships/stem-scholarships> |
+| **QuestBridge National College Match** | Oct 1, 2026 | 48 | <https://www.questbridge.org/apply-to-college/programs/national-college-match/apply> |
+| **Sports Gear Swag Scholarship** | Oct 1, 2026 | 48 | <https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors> |
+| **Texas A&M Engineering Priority Deadline** | Oct 15, 2026 | 62 | <https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html> |
 
-> **Note:** Gates & Breakthrough Junior Challenge are **33 days out** — start this week.
-
----
-
-### 2. What's New Today
-
-- **NEW** **QuestBridge 2026‑2027 application opened August 6** — full four‑year scholarships at 55 partner colleges (MIT, Caltech, Stanford, Yale, Princeton, Columbia, etc.). Strong CS/Engineering programs at many partners. [QuestBridge Facebook announcement](https://www.facebook.com/QuestBridge/posts/-high-school-seniors-the-2026-questbridge-national-college-match-is-now-open-for/1525078079648215) | [Official site](https://www.questbridge.org)
-- **NEW** Research confirms **no Texas‑specific STEM scholarships with Sep/Oct 2026 deadlines** beyond Gates, QuestBridge, Terry Foundation. National awards (Coca‑Cola Sep 30, Dr Pepper Sep 30) are not TX‑specific. [Admissions research](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-senior)
-- **NEW** Gates Scholarship Phase I details (exact essay prompts, required docs) **still not published** in searchable sources — check the official portal weekly. [Gates Scholarship site](https://www.thegatesscholarship.org/scholarship)
-- **NEW** Breakthrough Junior Challenge video specs/judging criteria not yet retrieved — visit the competition site directly. [Breakthrough Junior Challenge](https://scholarships360.org/scholarships/search/breakthrough-junior-challenge)
+> **Note:** Early Decision/Action deadlines (Rice, CMU, Purdue, UT Austin Global) are Nov 1 (79 days) — track but not urgent this week.
 
 ---
 
-### 3. Trends & Study Options (Tech/STEM)
+### 2. What’s New Today  
 
-- **QuestBridge partner colleges dominate top CS/Engineering rankings** — MIT, Caltech, Stanford, Carnegie Mellon, Berkeley, Cornell, Georgia Tech (via partner list) all offer full‑ride Match scholarships. Prioritize fit for AI/Data Science concentrations. [College Confidential thread](https://talk.collegeconfidential.com/t/best-questbridge-schools-for-computer-science/1486804)
-- **Interdisciplinary AI/Data Science majors expanding** — many partners now offer dedicated AI, Machine Learning, or Data Science tracks within CS/Engineering (e.g., MIT’s 6‑3, Stanford’s CS+AI, Carnegie Mellon’s AI major). Verify each school’s 2027 curriculum before ranking.
-- **Texas public flagships (UT Austin, Texas A&M, Rice) have early priority deadlines** (Oct 15 – Nov 1) for engineering/CS — applying early boosts merit/scholarship consideration.
-
----
-
-### 4. Suggested Next Steps for This Week
-
-1. **Start QuestBridge application** — create account, begin essays, request recommendations (deadline Oct 1). Use the partner list to rank 8–12 colleges with strong CS/AI programs.
-2. **Log into Gates Scholarship portal** — download Phase I requirements, draft essays (leadership, resilience, academic excellence). Deadline Sep 15.
-3. **Outline Breakthrough Junior Challenge video** — pick a STEM concept (AI, quantum, climate tech), script 90‑second explanation. Deadline Sep 15.
-4. **Open ApplyTexas & Common App** — Texas A&M opened Aug 1; Rice is on Common App; UT Austin opens soon. Begin core essays (Common App personal statement, UT Austin Short Answers).
-5. **Contact Richardson HS counselor** — confirm transcript/request process for QuestBridge, Gates, and early decision/early action schools (Rice ED Nov 1, CMU ED Nov 1, Purdue EA Nov 1).
+- **NEW:** UT Austin automatic-admission threshold for **Fall 2027 is top 5%** (down from top 6%). Texas residents must submit explicit class rank + class size by the deadline.  
+- **NEW:** **UT Austin Forty Acres Scholars Program** opened applications **Aug 1, 2026** — separate from MyStatus/admission portal. Deadline not yet published (prior year was Jan 12).  
+- **NEW:** **Terry Foundation** scholarship applications open **Aug 1 – early Oct 2026** at partner campuses.  
+  - Texas A&M: apply via **Common App** → committee requests docs via AIS.  
+  - UT Austin: answer Terry questions on **UT Scholarship Interest Form**.  
+  - Exact priority nomination deadlines not posted — check each campus site.  
+- **NEW:** **QuestBridge National College Match 2026‑27** opened late summer; **deadline Oct 1, 2026**. Full essay prompt & recommender specs still truncated on live pages — log in to portal for complete details.  
+- **NEW:** **UT Austin does NOT offer an undergraduate “Multidisciplinary Studies in AI.”** That program exists at **UT San Antonio (UTSA)**, transitioning to the **College of AI, Cyber & Computing in Fall 2027**.  
+- **NEW:** **Texas A&M’s automatic-admission percentile for Fall 2027 not yet published**; UT Austin CS & Texas A&M Engineering **likely require separate major-level review** beyond university auto-admit.
 
 ---
 
-### 5. Open Questions (Need Answers)
+### 3. Trends & Study Options (Tech/STEM)  
 
-1. **What are the exact Gates Scholarship Phase I essay prompts, required documents, and submission steps?** (Not yet public; check portal weekly.)
-2. **When do FAFSA/CSS Profile open for 2027‑28, and what are priority financial‑aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, CMU?** (Research error; monitor studentaid.gov & each school’s financial‑aid site.)
-3. **Have any universities announced new undergraduate AI/Data Science majors/concentrations for Fall 2027 since August 2026?** (Research error; check CS department pages of target schools directly.)
+- **AI/ML specialization** is exploding — new dedicated colleges (UTSA’s College of AI, Cyber & Computing) and graduate programs (UT Austin MSAI) signal strong industry demand.  
+- **Interdisciplinary computing** (AI + cybersecurity + data science) is a hiring differentiator; UTSA’s new structure exemplifies this.  
+- **Full-ride pathways** (QuestBridge, Gates, Forty Acres, Terry) remain critical for high-achieving, lower-income STEM students — deadlines cluster Sep–Oct.  
+- **Texas auto-admit shifts** (UT Austin top 5%) mean class-rank verification is now the single most important factor for in-state flagship access.
 
 ---
 
-*Digest compiled 08/13/2026. All links verified today. Next update: 08/20/2026.*
+### 4. Suggested Next Steps for This Week  
+
+1. **Confirm class rank & size** with Richardson HS counselor — ensure top 5% documentation ready for UT Austin auto-admit.  
+2. **Start QuestBridge application** (due Oct 1): draft personal essay, secure 2 academic recommenders + counselor, begin Match Rankings Form.  
+3. **Submit Gates Scholarship Phase I** (due Sep 15) — complete eligibility questionnaire & essays.  
+4. **Finalize Breakthrough Junior Challenge video** (due Sep 15) — 3‑min STEM explanation; $250k prize.  
+5. **Open Forty Acres Scholars & Terry Foundation portals**:  
+   - Forty Acres: <https://www.texasexes.org/scholarships/forty-acres-scholars-program/apply> (separate from UT admission).  
+   - Terry: Common App (TAMU) / UT Scholarship Interest Form (UT Austin) — submit by campus early‑Oct deadline.  
+6. **Add UTSA Multidisciplinary Studies AI** to college list as a strategic backup (new AI college, Fall 2027 launch).
+
+---
+
+### 5. Open Questions (Need Answers)  
+
+1. **Exact deadline & eligibility for UT Austin Forty Acres Scholars Program Fall 2027** (official page still lacks date).  
+2. **Texas A&M’s Fall 2027 automatic-admission percentile** and whether Engineering admits all auto-eligible students without extra review.  
+3. **Complete QuestBridge essay prompt & precise recommendation‑letter requirements** (number, type, submission method) — not fully visible on public pages.  
+
+---  
+*Digest compiled from researcher briefs (studies, scholarships, admissions) and student memory as of Aug 14, 2026. URLs included for immediate action.*
