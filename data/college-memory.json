@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_run": "2026-08-14T08:06:51.605993+00:00",
-    "run_count": 10
+    "last_run": "2026-08-15T07:15:35.599406+00:00",
+    "run_count": 11
   },
   "profile": {},
   "interests": [
@@ -33,7 +33,7 @@
     {
       "name": "STEM",
       "strength": 3,
-      "last_seen": "2026-08-10T23:53:36.798854+00:00"
+      "last_seen": "2026-08-15T07:11:44.607842+00:00"
     },
     {
       "name": "Computer Science and Engineering",
@@ -1020,6 +1020,87 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T23:53:36.798512+00:00",
       "last_seen": "2026-08-10T23:53:36.798513+00:00"
+    },
+    {
+      "id": "5777400494197686256",
+      "topic": "Texas STEM scholarships",
+      "fact": "No Texas-specific STEM scholarship for high school seniors with September or October 2026 deadline identified beyond Gates, QuestBridge, and Terry Foundation.",
+      "source": "Studies Research section",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:10:22.624861+00:00",
+      "last_seen": "2026-08-15T07:10:22.624876+00:00"
+    },
+    {
+      "id": "1384284556022009943",
+      "topic": "Bold.org Texas scholarship",
+      "fact": "Bold.org lists a Texas scholarship with October 30, 2026 deadline and $2,500 award, but it is not described as STEM-specific.",
+      "source": "https://bold.org/scholarships/by-state/texas-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:10:22.624976+00:00",
+      "last_seen": "2026-08-15T07:10:22.624979+00:00"
+    },
+    {
+      "id": "1213295238148095301",
+      "topic": "Communities Foundation of Texas",
+      "fact": "Communities Foundation of Texas lists general Texas scholarships for graduating high school seniors with no STEM focus or September/October deadline specified.",
+      "source": "https://www.cftexas.org/scholarships/apply-for-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:10:22.625075+00:00",
+      "last_seen": "2026-08-15T07:10:22.625077+00:00"
+    },
+    {
+      "id": "6614893173446819874",
+      "topic": "FAFSA 2027-2028",
+      "fact": "Expected to open on or around October 1, 2026; confirm on StudentAid.gov in September 2026 due to past delays.",
+      "source": "S0, S4",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607167+00:00",
+      "last_seen": "2026-08-15T07:11:44.607180+00:00"
+    },
+    {
+      "id": "8503896615634618482",
+      "topic": "CSS Profile",
+      "fact": "Opens October 1 each year; deadlines vary by college and often align with admissions deadlines.",
+      "source": "S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607278+00:00",
+      "last_seen": "2026-08-15T07:11:44.607280+00:00"
+    },
+    {
+      "id": "2238139482474521400",
+      "topic": "Federal FAFSA deadline",
+      "fact": "Federal government accepts FAFSA through June 30 of the academic year, but state and college deadlines are earlier.",
+      "source": "S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607377+00:00",
+      "last_seen": "2026-08-15T07:11:44.607378+00:00"
+    },
+    {
+      "id": "8336758915131406860",
+      "topic": "Testing for ED/EA",
+      "fact": "Complete any needed SAT/ACT retakes by the last October testing date for Early Decision/Action applications.",
+      "source": "S2",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607475+00:00",
+      "last_seen": "2026-08-15T07:11:44.607477+00:00"
+    },
+    {
+      "id": "5863578845328066759",
+      "topic": "Terry Foundation eligibility",
+      "fact": "Requires Texas high school graduate, no gap year, and school nomination.",
+      "source": "S5",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607575+00:00",
+      "last_seen": "2026-08-15T07:11:44.607577+00:00"
+    },
+    {
+      "id": "4207817827883584146",
+      "topic": "Texas STEM scholarships",
+      "fact": "No Texas-specific STEM scholarships for high school seniors with September or October 2026 deadlines confirmed beyond Gates, QuestBridge, and Terry Foundation in provided sources.",
+      "source": "S0, S1, S2, S3, S4, S5",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607673+00:00",
+      "last_seen": "2026-08-15T07:11:44.607674+00:00"
     }
   ],
   "deadlines": [
@@ -1328,6 +1409,42 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T23:53:36.798691+00:00",
       "last_seen": "2026-08-10T23:53:36.798692+00:00"
+    },
+    {
+      "id": "8359488507444211233",
+      "title": "Bold.org Texas Scholarship",
+      "date": "2026-10-30",
+      "url": "https://bold.org/scholarships/by-state/texas-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:10:22.625113+00:00",
+      "last_seen": "2026-08-15T07:10:22.625116+00:00"
+    },
+    {
+      "id": "1188439723738314383",
+      "title": "FAFSA 2027-2028 opening",
+      "date": "2026-10-01",
+      "url": "https://collegehound.com/blog/financial-aid-timeline-2027-when-to-apply-and-what-families-need-to-know",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607712+00:00",
+      "last_seen": "2026-08-15T07:11:44.607714+00:00"
+    },
+    {
+      "id": "6675350459871999138",
+      "title": "CSS Profile opening",
+      "date": "2026-10-01",
+      "url": "https://www.usnews.com/education/articles/completing-the-css-profile-everything-you-need-to-know",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607747+00:00",
+      "last_seen": "2026-08-15T07:11:44.607748+00:00"
+    },
+    {
+      "id": "2492254938978384662",
+      "title": "Federal FAFSA deadline for 2027-2028 academic year",
+      "date": "2028-06-30",
+      "url": "https://www.collegeraptor.com/paying-for-college/articles/financial-aid/all-about-fafsa-deadlines",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607782+00:00",
+      "last_seen": "2026-08-15T07:11:44.607783+00:00"
     }
   ],
   "scholarships": [
@@ -1583,6 +1700,28 @@
       "weight": 1.0,
       "first_seen": "2026-08-10T23:53:36.798846+00:00",
       "last_seen": "2026-08-10T23:53:36.798847+00:00"
+    },
+    {
+      "id": "8359488507444211233",
+      "name": "Bold.Org Texas Scholarship",
+      "amount": "$2,500",
+      "deadline": "2026-10-30",
+      "url": "https://bold.org/scholarships/by-state/texas-scholarships",
+      "eligibility": "3.0+ GPA, involvement in sports/arts/community service during high school, Texas resident, high school senior or current undergraduate",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:10:22.625144+00:00",
+      "last_seen": "2026-08-15T07:10:22.625146+00:00"
+    },
+    {
+      "id": "7746847426291914405",
+      "name": "Terry Foundation",
+      "amount": "",
+      "deadline": "",
+      "url": "https://terryfoundation.org/apply",
+      "eligibility": "Texas high school graduate, no gap year, school nomination required",
+      "weight": 1.0,
+      "first_seen": "2026-08-15T07:11:44.607830+00:00",
+      "last_seen": "2026-08-15T07:11:44.607833+00:00"
     }
   ],
   "coverage": {
@@ -1727,8 +1866,8 @@
       "search_count": 4
     },
     "Which Texas-specific STEM scholarships for high school seniors have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility requirements?": {
-      "last_researched": "2026-08-13",
-      "search_count": 3
+      "last_researched": "2026-08-15",
+      "search_count": 6
     },
     "What are the exact Phase I essay prompts, required documents, and submission process for the Gates Scholarship class of 2027 due September 15, 2026?": {
       "last_researched": "2026-08-13",
@@ -1764,6 +1903,22 @@
     },
     "What is the Terry Foundation Scholarship nomination process for Fall 2027 at Texas A&M and UT Austin, and what is the priority deadline for the required nomination form?": {
       "last_researched": "2026-08-14",
+      "search_count": 1
+    },
+    "Do NOT repeat a question already fully covered yesterday unless something recent suggests it changed.": {
+      "last_researched": "2026-08-15",
+      "search_count": 3
+    },
+    ": empty. So no open questions.\n\nMaybe we should ask about:\n- FAFSA/CSS Profile opening dates and priority deadlines for each target school (but asked Aug 13). However, the FAFSA opening date for 2027-2028 is typically October 1, 2026. But there have been delays in recent years. Might be worth confirming.\n- Scholarship opportunities with September deadlines beyond Gates and Breakthrough. There might be others like Coca-Cola Scholars (deadline Oct 31), but that's later. Maybe the student should know about the ": {
+      "last_researched": "2026-08-15",
+      "search_count": 2
+    },
+    "fully covered yesterday": {
+      "last_researched": "2026-08-15",
+      "search_count": 3
+    },
+    "unless something recent suggests it changed.": {
+      "last_researched": "2026-08-15",
       "search_count": 1
     }
   },
@@ -1919,6 +2074,23 @@
         "Under Texas's automatic admissions law, what are the top 6% requirements for Fall 2027, and do UT Austin Computer Science and Texas A&M Engineering programs admit all automatically eligible students or require a separate review?",
         "What are the application deadlines, eligibility requirements, and nomination process for UT Austin's Forty Acres Scholars Program for Fall 2027, and does it require a separate application from UT Austin admission?",
         "What are the exact QuestBridge National College Match 2026-2027 essay prompts and recommendation letter requirements for the October 1, 2026 deadline?"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "topics_covered": [
+        "Which Texas-specific STEM scholarships for high school seniors have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility requirements?",
+        ": empty. So no open questions.\n\nMaybe we should ask about:\n- FAFSA/CSS Profile opening dates and priority deadlines for each target school (but asked Aug 13). However, the FAFSA opening date for 2027-2028 is typically October 1, 2026. But there have been delays in recent years. Might be worth confirming.\n- Scholarship opportunities with September deadlines beyond Gates and Breakthrough. There might be others like Coca-Cola Scholars (deadline Oct 31), but that's later. Maybe the student should know about the ",
+        "Do NOT repeat a question already fully covered yesterday unless something recent suggests it changed.",
+        "fully covered yesterday",
+        "Which Texas-specific STEM scholarships for high school seniors have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility requirements?",
+        ": empty. So no open questions.\n\nMaybe we should ask about:\n- FAFSA/CSS Profile opening dates and priority deadlines for each target school (but asked Aug 13). However, the FAFSA opening date for 2027-2028 is typically October 1, 2026. But there have been delays in recent years. Might be worth confirming.\n- Scholarship opportunities with September deadlines beyond Gates and Breakthrough. There might be others like Coca-Cola Scholars (deadline Oct 31), but that's later. Maybe the student should know about the ",
+        "Do NOT repeat a question already fully covered yesterday unless something recent suggests it changed.",
+        "fully covered yesterday",
+        "Which Texas-specific STEM scholarships for high school seniors have application deadlines in September or October 2026, beyond Gates, QuestBridge, and Terry Foundation, and what are their eligibility requirements?",
+        "Do NOT repeat a question already fully covered yesterday unless something recent suggests it changed.",
+        "fully covered yesterday",
+        "unless something recent suggests it changed."
       ]
     }
   ]
