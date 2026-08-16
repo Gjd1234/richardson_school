@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_run": "2026-08-15T07:15:35.599406+00:00",
-    "run_count": 11
+    "last_run": "2026-08-16T07:17:28.695697+00:00",
+    "run_count": 12
   },
   "profile": {},
   "interests": [
@@ -54,6 +54,41 @@
       "name": "Integrative Artificial Intelligence",
       "strength": 1,
       "last_seen": "2026-08-10T21:22:23.682523+00:00"
+    },
+    {
+      "name": "Undergraduate Artificial Intelligence majors",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855915+00:00"
+    },
+    {
+      "name": "Undergraduate Data Science majors",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855919+00:00"
+    },
+    {
+      "name": "Fall 2027 admission",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855923+00:00"
+    },
+    {
+      "name": "B.S. in Data Science (UVA)",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855927+00:00"
+    },
+    {
+      "name": "AI B.S. (UC Merced)",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855930+00:00"
+    },
+    {
+      "name": "AI degrees (UC San Diego)",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855933+00:00"
+    },
+    {
+      "name": "Assured Enrollment programs",
+      "strength": 1,
+      "last_seen": "2026-08-16T07:14:30.855937+00:00"
     }
   ],
   "open_questions": [],
@@ -1101,6 +1136,78 @@
       "weight": 1.0,
       "first_seen": "2026-08-15T07:11:44.607673+00:00",
       "last_seen": "2026-08-15T07:11:44.607674+00:00"
+    },
+    {
+      "id": "3437502685923883971",
+      "topic": "Undergraduate AI/Data Science Programs",
+      "fact": "No universities announced new undergraduate AI or data science majors for Fall 2027 admission since August 15, 2026.",
+      "source": "Research brief Q&A responses",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.854637+00:00",
+      "last_seen": "2026-08-16T07:14:30.854654+00:00"
+    },
+    {
+      "id": "3296467670905463993",
+      "topic": "Graduate Program Recruitment",
+      "fact": "Graduate AI/data science programs are actively recruiting for Fall 2027, including University of Florida's MS in AI Systems and MS in Applied Data Science.",
+      "source": "Research brief Trends section",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.854753+00:00",
+      "last_seen": "2026-08-16T07:14:30.854755+00:00"
+    },
+    {
+      "id": "7281774134320675194",
+      "topic": "UVA Assured Enrollment",
+      "fact": "UVA School of Data Science is piloting Assured Enrollment for first-year students into its B.S. in Data Science.",
+      "source": "Research brief Trends section",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.854847+00:00",
+      "last_seen": "2026-08-16T07:14:30.854849+00:00"
+    },
+    {
+      "id": "3878750927804999222",
+      "topic": "California AI Majors",
+      "fact": "California colleges are introducing AI majors; UC San Diego and UC Merced (per comment) are mentioned with AI degree programs.",
+      "source": "Research brief Trends section and Programs Worth Watching",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.854940+00:00",
+      "last_seen": "2026-08-16T07:14:30.854942+00:00"
+    },
+    {
+      "id": "3352210327839637445",
+      "topic": "UF Graduate Deadlines",
+      "fact": "University of Florida MS in AI Systems and MS in Applied Data Science have Fall 2027 deadlines: international applicants January 31, 2027; domestic applicants April 1, 2027.",
+      "source": "Research brief Programs Worth Watching",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855033+00:00",
+      "last_seen": "2026-08-16T07:14:30.855035+00:00"
+    },
+    {
+      "id": "631507320129668900",
+      "topic": "UVA Graduate Deadlines",
+      "fact": "UVA School of Data Science graduate program deadlines for Fall 2027: Priority December 15, 2026; Regular March 1, 2027; Rolling June 15, 2027.",
+      "source": "Research brief Q&A table",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855127+00:00",
+      "last_seen": "2026-08-16T07:14:30.855130+00:00"
+    },
+    {
+      "id": "1560180276028745880",
+      "topic": "USC Graduate Deadlines",
+      "fact": "USC Rossier MS in Data Science deadlines for Fall 2027: Priority December 1, 2026; Scholarship February 15, 2027; Regular April 15, 2027.",
+      "source": "Research brief Q&A table",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855223+00:00",
+      "last_seen": "2026-08-16T07:14:30.855225+00:00"
+    },
+    {
+      "id": "3971198438201238591",
+      "topic": "Application Timeline",
+      "fact": "General timeline suggests starting SOP/LOR preparation around August\u2013October 2026 and targeting Early Action/Decision applications November 1\u201315, 2026.",
+      "source": "Research brief Notes for This Student",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855319+00:00",
+      "last_seen": "2026-08-16T07:14:30.855321+00:00"
     }
   ],
   "deadlines": [
@@ -1445,6 +1552,114 @@
       "weight": 1.0,
       "first_seen": "2026-08-15T07:11:44.607782+00:00",
       "last_seen": "2026-08-15T07:11:44.607783+00:00"
+    },
+    {
+      "id": "1797520875408434736",
+      "title": "UF MS in AI Systems / MS in Applied Data Science (International)",
+      "date": "2027-01-31",
+      "url": "https://msais.eng.ufl.edu/admission-requirements-deadlines",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855371+00:00",
+      "last_seen": "2026-08-16T07:14:30.855373+00:00"
+    },
+    {
+      "id": "2582747563510899371",
+      "title": "UF MS in AI Systems / MS in Applied Data Science (Domestic)",
+      "date": "2027-04-01",
+      "url": "https://msais.eng.ufl.edu/admission-requirements-deadlines",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855406+00:00",
+      "last_seen": "2026-08-16T07:14:30.855409+00:00"
+    },
+    {
+      "id": "9014704854407135958",
+      "title": "UVA School of Data Science Graduate (Priority)",
+      "date": "2026-12-15",
+      "url": "https://datascience.virginia.edu/degrees/bsds/admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855442+00:00",
+      "last_seen": "2026-08-16T07:14:30.855444+00:00"
+    },
+    {
+      "id": "8497913162773635462",
+      "title": "UVA School of Data Science Graduate (Regular)",
+      "date": "2027-03-01",
+      "url": "https://datascience.virginia.edu/degrees/bsds/admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855478+00:00",
+      "last_seen": "2026-08-16T07:14:30.855480+00:00"
+    },
+    {
+      "id": "2191985269435290767",
+      "title": "UVA School of Data Science Graduate (Rolling)",
+      "date": "2027-06-15",
+      "url": "https://datascience.virginia.edu/degrees/bsds/admissions",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855514+00:00",
+      "last_seen": "2026-08-16T07:14:30.855516+00:00"
+    },
+    {
+      "id": "3401898544500766117",
+      "title": "USC Rossier MS in Data Science (Priority)",
+      "date": "2026-12-01",
+      "url": "https://rossier.usc.edu/ms-data-science/",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855551+00:00",
+      "last_seen": "2026-08-16T07:14:30.855553+00:00"
+    },
+    {
+      "id": "3702624242115892758",
+      "title": "USC Rossier MS in Data Science (Scholarship)",
+      "date": "2027-02-15",
+      "url": "https://rossier.usc.edu/ms-data-science/",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855588+00:00",
+      "last_seen": "2026-08-16T07:14:30.855590+00:00"
+    },
+    {
+      "id": "1590900859060536479",
+      "title": "USC Rossier MS in Data Science (Regular)",
+      "date": "2027-04-15",
+      "url": "https://rossier.usc.edu/ms-data-science/",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855626+00:00",
+      "last_seen": "2026-08-16T07:14:30.855628+00:00"
+    },
+    {
+      "id": "1537607726814314928",
+      "title": "Breakthrough Junior Challenge",
+      "date": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855664+00:00",
+      "last_seen": "2026-08-16T07:14:30.855667+00:00"
+    },
+    {
+      "id": "9002782608261836011",
+      "title": "Regeneron Science Talent Search",
+      "date": "2026-11-05",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855704+00:00",
+      "last_seen": "2026-08-16T07:14:30.855706+00:00"
+    },
+    {
+      "id": "5692710306690374997",
+      "title": "Edison Scholars Program",
+      "date": "2027-01-23",
+      "url": "https://accessscholarships.com/blog/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855744+00:00",
+      "last_seen": "2026-08-16T07:14:30.855747+00:00"
+    },
+    {
+      "id": "7093133210771337701",
+      "title": "Sallie Mae $2,000 No Essay Scholarship",
+      "date": "2026-08-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-junior",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855786+00:00",
+      "last_seen": "2026-08-16T07:14:30.855788+00:00"
     }
   ],
   "scholarships": [
@@ -1722,6 +1937,50 @@
       "weight": 1.0,
       "first_seen": "2026-08-15T07:11:44.607830+00:00",
       "last_seen": "2026-08-15T07:11:44.607833+00:00"
+    },
+    {
+      "id": "1537607726814314928",
+      "name": "Breakthrough Junior Challenge",
+      "amount": "$250,000",
+      "deadline": "2026-09-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "eligibility": "High school students",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855818+00:00",
+      "last_seen": "2026-08-16T07:14:30.855820+00:00"
+    },
+    {
+      "id": "9002782608261836011",
+      "name": "Regeneron Science Talent Search",
+      "amount": "$250,000",
+      "deadline": "2026-11-05",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "eligibility": "High school seniors conducting independent science, math, or engineering research",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855845+00:00",
+      "last_seen": "2026-08-16T07:14:30.855847+00:00"
+    },
+    {
+      "id": "5692710306690374997",
+      "name": "Edison Scholars Program",
+      "amount": "$40,000",
+      "deadline": "2027-01-23",
+      "url": "https://accessscholarships.com/blog/scholarships-for-high-school-seniors",
+      "eligibility": "STEM majors at 4-year colleges, restricted to students in Edison's Southern California service territory",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855871+00:00",
+      "last_seen": "2026-08-16T07:14:30.855872+00:00"
+    },
+    {
+      "id": "7093133210771337701",
+      "name": "Sallie Mae $2,000 No Essay Scholarship",
+      "amount": "$2,000",
+      "deadline": "2026-08-31",
+      "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-junior",
+      "eligibility": "Not STEM-specific; open to high school juniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-16T07:14:30.855900+00:00",
+      "last_seen": "2026-08-16T07:14:30.855905+00:00"
     }
   ],
   "coverage": {
@@ -1920,6 +2179,30 @@
     "unless something recent suggests it changed.": {
       "last_researched": "2026-08-15",
       "search_count": 1
+    },
+    "Have any universities announced new undergraduate AI or data science majors or concentrations for Fall 2027 since August 15, 2026, and what are their admission requirements and deadlines?": {
+      "last_researched": "2026-08-16",
+      "search_count": 3
+    },
+    "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September 2026 (besides Gates Scholarship and Breakthrough Junior Challenge), and what are their eligibility requirements and award amounts?": {
+      "last_researched": "2026-08-16",
+      "search_count": 3
+    },
+    "What are the current ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?": {
+      "last_researched": "2026-08-16",
+      "search_count": 1
+    },
+    "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?": {
+      "last_researched": "2026-08-16",
+      "search_count": 2
+    },
+    "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 15, 2026, and what are their admission requirements and deadlines?": {
+      "last_researched": "2026-08-16",
+      "search_count": 2
+    },
+    "What are the exact Phase II application requirements, essay prompts, and timeline for the Gates Scholarship class of 2027 for students who advance past Phase I (due September 15)?": {
+      "last_researched": "2026-08-16",
+      "search_count": 1
     }
   },
   "digest_history": [
@@ -2091,6 +2374,23 @@
         "Do NOT repeat a question already fully covered yesterday unless something recent suggests it changed.",
         "fully covered yesterday",
         "unless something recent suggests it changed."
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "topics_covered": [
+        "What are the current ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, etc.) require separate engineering/CS applications or have earlier deadlines?",
+        "Have any universities announced new undergraduate AI or data science majors or concentrations for Fall 2027 since August 15, 2026, and what are their admission requirements and deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September 2026 (besides Gates Scholarship and Breakthrough Junior Challenge), and what are their eligibility requirements and award amounts?",
+        "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 15, 2026, and what are their admission requirements and deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September 2026 (besides Gates Scholarship and Breakthrough Junior Challenge), and what are their eligibility requirements and award amounts?",
+        "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?",
+        "What are the exact Phase II application requirements, essay prompts, and timeline for the Gates Scholarship class of 2027 for students who advance past Phase I (due September 15)?",
+        "Have any universities announced new undergraduate AI or data science majors or concentrations for Fall 2027 since August 15, 2026, and what are their admission requirements and deadlines?",
+        "Have any universities announced new undergraduate AI or data science majors or concentrations for Fall 2027 since August 15, 2026, and what are their admission requirements and deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September 2026 (besides Gates Scholarship and Breakthrough Junior Challenge), and what are their eligibility requirements and award amounts?",
+        "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 15, 2026, and what are their admission requirements and deadlines?",
+        "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?"
       ]
     }
   ]
