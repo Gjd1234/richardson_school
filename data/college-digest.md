@@ -1,61 +1,65 @@
-# TODAY'S COLLEGE DIGEST — August 16, 2026  
-**Student:** Class of 2027 | Richardson High School (TX) | Tech/STEM focus (CS, AI, Engineering, Data Science)
+# TODAY'S COLLEGE DIGEST — August 17, 2026  
+**Student:** Class of 2027 | Richardson High School (TX) | STEM/CS/AI focus  
 
 ---
 
-## 1. Due Soon — Most Urgent Deadlines (next 60 days)
+## 1. Due Soon — Urgent Deadlines & Scholarships Closing Soonest  
 
-| # | Scholarship / Deadline | Date | Days Left | Link |
-|---|------------------------|------|-----------|------|
-| 1 | **Sallie Mae $2,000 No Essay Scholarship** | Aug 31, 2026 | **15** | [Apply](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-junior) |
-| 2 | **Gates Scholarship — Phase I** | Sep 15, 2026 | **30** | [Apply](https://www.thegatesscholarship.org/scholarship) |
-| 3 | **Breakthrough Junior Challenge** (video submission) | Sep 15, 2026 | **30** | [Details](https://scholarships360.org/scholarships/stem-scholarships) |
-| 4 | **QuestBridge National College Match** | Oct 1, 2026 | **46** | [Apply](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
-| 5 | **Texas A&M Engineering Priority Deadline** (Fall 2027) | Oct 15, 2026 | **60** | [Info](https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html) |
+| Item | Deadline | Days Left | Link |
+|------|----------|-----------|------|
+| **Sallie Mae $2,000 No‑Essay Scholarship** | Aug 31, 2026 | 14 | [Apply](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/school-year/high-school-junior) |
+| **Gates Scholarship (Phase I)** | Sep 15, 2026 | 29 | [Portal](https://www.thegatesscholarship.org/scholarship) |
+| **Breakthrough Junior Challenge** | Sep 15, 2026 | 29 | [Enter](https://breakthroughjuniorchallenge.org/enter) |
+| **QuestBridge National College Match** | Oct 1, 2026 | 45 | [Apply](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
+| **Sports Gear Swag Scholarship ($1,000)** | Oct 1, 2026 | 45 | [Details](https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors) |
 
-> **Also opening Oct 1:** FAFSA 2027‑28 (exact date not yet confirmed by Dept. of Ed), CSS Profile, and several institutional scholarship portals. Treat Oct 1 as “ready to submit” target.
-
----
-
-## 2. What’s New Today
-
-- **NEW** **UVA B.S. in Data Science — Assured Enrollment pilot**: First‑year admits can lock in a Data Science major spot early. No separate deadline published yet; monitor [UVA Data Science admissions](https://datascience.virginia.edu/degrees/bsds/admissions).  
-- **NEW** **UC Merced B.S. in Artificial Intelligence**: Reported as launching “in fall” (likely Fall 2026 or 2027). Admission requirements/deadlines not yet posted. Track via [EdSource article](https://edsource.org/2026/uc-san-diego-ai-degrees/757604).  
-- **NEW** **Gates Scholarship Phase II timeline confirmed**: Opens **Dec 1, 2026** for semifinalists; deadline **Jan 15, 2027**. Requires two teacher recommendations + multiple essays (prompts released in December). [Details](https://www.collegeessayguy.com/blog/gates-scholarship).  
-- **NEW** **Texas A&M freshman application opened Aug 1** (College Station, McAllen, Galveston). Acknowledgement emails start Sep 1; Top 10% decisions begin September. [Link](https://admissions.tamu.edu/apply/freshman/index.html).  
-- **NEW** **UT Austin Early Action deadline Oct 15** (materials due Oct 22). Regular deadline Dec 1. [FAQ](https://admissions.utexas.edu/apply/frequently-asked-questions).  
-- **NEW** **FAFSA 2027‑28**: Dept. of Ed says “on track to launch” but **no official opening date** yet. Historically Oct 1; recent cycles delayed to December. Watch [studentaid.gov](https://studentaid.gov).  
-- **NEW** **No additional national STEM scholarships with September 2026 deadlines** found beyond Gates & Breakthrough Junior Challenge.
+> **Note:** Sallie Mae scholarship appears targeted at **Class of 2028 (juniors)** per recent research — verify eligibility before applying.  
+> **FAFSA 2027‑28** and **CSS Profile** open **Oct 1** (45 days) — not a deadline, but gather 2025 tax docs now.
 
 ---
 
-## 3. Trends & Study Options (Tech/STEM)
+## 2. What’s New Today  
 
-- **Undergraduate AI/Data Science majors proliferating**: UC system (San Diego, Merced), UVA (assured enrollment), and others are adding dedicated bachelor’s programs — signal that admissions will be competitive and early-application pathways (like UVA’s pilot) are emerging.  
-- **Graduate programs already recruiting Fall 2027** (UF, UChicago, UVA, USC) — indicates strong research funding and faculty hiring; good proxy for where undergrad research opportunities will grow.  
-- **Texas public universities** (UT Austin, Texas A&M, UTD) have not yet announced separate engineering/CS applications for Fall 2027; single ApplyTexas/Common App submission still standard.  
-- **Early Action/Decision deadlines cluster Nov 1** (Rice, CMU, Purdue, UT Austin Global Scholarships) — plan essays and recommendations now.
-
----
-
-## 4. Suggested Next Steps for This Week
-
-1. **Submit Sallie Mae No‑Essay Scholarship** (5‑minute application) before Aug 31.  
-2. **Finalize Gates Scholarship Phase I** — ensure profile, transcripts, and recommender requests are complete by Sep 15.  
-3. **Complete Breakthrough Junior Challenge video** (3‑minute STEM explanation) and submit by Sep 15.  
-4. **Start UT Austin Early Action application** — draft essays, request transcripts, and line up 1‑2 STEM teacher recommenders (deadline Oct 15).  
-5. **Begin QuestBridge application** — gather financial docs, essays, and recommendations (deadline Oct 1).  
-6. **Create FSA IDs** (student + parent) for FAFSA; bookmark each target school’s financial‑aid page for priority deadlines (UT Austin: Jan 15).  
-7. **Research UVA Assured Enrollment & UC Merced AI major** — add to college list if interested; set calendar reminders to check for Fall 2027 details.
+- **NEW** **No other national STEM scholarships with September 2026 deadlines** exist for Class of 2027 besides Gates & Breakthrough Junior Challenge (confirmed across multiple sources).  
+- **NEW** **Gates Scholarship Phase I details (essay prompts, document checklist, submission steps) are NOT published in public sources** — must log into **myTGS Profile** for exact requirements.  
+- **NEW** **Breakthrough Junior Challenge specs finalized**: ≤2‑min original video (physics, math, or life sciences); any format (animation, documentary, etc.); dynamic visuals encouraged; judging = expert panel → regional popular vote (top 2 per 7 regions). Deadline **Sep 15, 23:59 PDT**.  
+- **NEW** **FAFSA 2027‑28** expected to open **Oct 1, 2026** (beta Aug 5); federal deadline Jun 30, 2028.  
+- **NEW** **Carnegie Mellon priority deadlines**: Early Decision **Nov 15**, Regular Decision **Feb 15** (only school with confirmed dates in current data).  
+- **NEW** **QuestBridge 2026‑27 essay prompts & recommendation requirements NOT in public sources** — check application portal directly.  
+- **NEW** **Texas A&M Fall 2027 freshman app opened Aug 1**; acknowledgement emails start Sep 1; Top 10% decisions begin September.  
+- **NEW** **UT Austin accepting Fall 2027 applications** (no published priority/final dates yet).  
+- **NEW** **Rice University is on Common App**.  
+- **NEW** **Regeneron Science Talent Search** deadline **Nov 5, 2026** ($250K top prize) — requires independent research project.
 
 ---
 
-## 5. Open Questions (Need Clarification)
+## 3. Trends & Study Options (Tech/STEM)  
 
-1. **Exact FAFSA 2027‑28 opening date** — will it be Oct 1 or delayed to December?  
-2. **UC Merced AI B.S. Fall 2027 admission requirements & deadline** — not yet published; confirm whether first‑year applicants are accepted.  
-3. **Do UT Austin, Texas A&M, or UTD require a separate engineering/CS application or earlier major‑specific deadline for Fall 2027?** (Current sources say no, but verify on each admissions site.)
+- **AI/ML integration across disciplines** is the dominant theme — admissions and scholarship reviewers (Regeneron, Gates, Breakthrough) reward **interdisciplinary projects** that blend CS with biology, physics, or social impact.  
+- **Research experience > coursework alone** for top-tier STEM scholarships (Regeneron STS, Gates). Independent or mentored research with a tangible output (paper, prototype, video) is a key differentiator.  
+- **Science communication skills** (video, writing) are increasingly valued — Breakthrough Junior Challenge and college supplements test ability to explain complex ideas simply.  
+- **Texas public flagships (UT Austin, Texas A&M)** are expanding CS/engineering capacity; early application (Oct 15 for A&M Engineering priority) improves admission and scholarship odds.
 
 ---
 
-*Digest compiled from researcher briefs (studies, scholarships, admissions) and student memory as of Aug 16, 2026. All links verified today.*
+## 4. Suggested Next Steps for This Week (Aug 17–23)  
+
+1. **Gates Scholarship Phase I** — Log into **myTGS Profile** today; locate exact essay prompts & document checklist; draft essays (leadership, resilience, academic achievement).  
+2. **Breakthrough Junior Challenge** — Pick a physics/math/life‑science concept; storyboard a ≤2‑min video; begin production (animation, live‑action, or slides + narration). Target upload by **Sep 10** to avoid last‑minute issues.  
+3. **QuestBridge Application** — Create account; request **2 academic recommendations** (STEM teachers preferred); gather transcripts & test scores; start essay drafts (prompts in portal).  
+4. **FAFSA/CSS Profile Prep** — Collect 2025 tax returns, W‑2s, bank statements; create FSA IDs (student + parent) for Oct 1 opening.  
+5. **Texas A&M Engineering** — Start **ApplyTexas** or **Common App** application (opened Aug 1); select Engineering priority deadline **Oct 15** for best consideration.  
+6. **Regeneron STS (if applicable)** — If student has independent research, finalize paper & secure mentor letters; application opens summer 2026, due **Nov 5**.  
+7. **Recommendation Letters** — Ask 2–3 STEM teachers **this week** for Gates, QuestBridge, and early college apps (Rice ED Nov 1, CMU ED Nov 15, Purdue EA Nov 1).
+
+---
+
+## 5. Open Questions (Need Answers)  
+
+1. **What are the exact Gates Scholarship Phase I essay prompts, required documents, and submission workflow?** (Not in public sources; must check myTGS portal.)  
+2. **What are the QuestBridge National College Match 2026‑27 essay prompts and recommendation letter requirements?** (Not in public sources; check QuestBridge application portal.)  
+3. **What are the priority financial‑aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Georgia Tech, and UIUC for Fall 2027?** (Only Carnegie Mellon dates found so far.)  
+
+---  
+
+*Digest compiled from researcher briefs (studies, scholarships, admissions) and student memory as of 17 Aug 2026. All links verified in source material.*
