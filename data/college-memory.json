@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_run": "2026-08-17T07:50:04.068503+00:00",
-    "run_count": 13
+    "last_run": "2026-08-18T07:23:18.007388+00:00",
+    "run_count": 14
   },
   "profile": {},
   "interests": [
@@ -1208,6 +1208,159 @@
       "weight": 1.0,
       "first_seen": "2026-08-16T07:14:30.855319+00:00",
       "last_seen": "2026-08-16T07:14:30.855321+00:00"
+    },
+    {
+      "id": "6818870898655058487",
+      "topic": "Sallie Mae No Essay Scholarship amount",
+      "fact": "The scholarship awards $2,000 with 12 awards available.",
+      "source": "https://www.sallie.com/scholarships/no-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:21:52.422170+00:00",
+      "last_seen": "2026-08-18T07:21:52.422186+00:00"
+    },
+    {
+      "id": "7429054575638291664",
+      "topic": "Sallie Mae No Essay Scholarship deadline",
+      "fact": "The application deadline is August 31, 2026.",
+      "source": "https://www.sallie.com/scholarships/no-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:21:52.422294+00:00",
+      "last_seen": "2026-08-18T07:21:52.422297+00:00"
+    },
+    {
+      "id": "4087733737560728450",
+      "topic": "Sallie Mae No Essay Scholarship eligibility",
+      "fact": "Applicants must be legal residents of the 50 U.S. states, DC, or a U.S. territory, at least 17 years old at time of entry, and meet one of four status-based criteria related to current enrollment/education status.",
+      "source": "https://scholarshipguidance.com/scholarships/35356/sallie-mae-scholarship",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:21:52.422397+00:00",
+      "last_seen": "2026-08-18T07:21:52.422400+00:00"
+    },
+    {
+      "id": "2153638649947506541",
+      "topic": "Sallie Mae No Essay Scholarship application process",
+      "fact": "No essay is required; applicants apply online through Sallie's official scholarship page.",
+      "source": "https://www.sallie.com/scholarships/no-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:21:52.422497+00:00",
+      "last_seen": "2026-08-18T07:21:52.422500+00:00"
+    },
+    {
+      "id": "8824724749481142720",
+      "topic": "Scholarship Deadline",
+      "fact": "The Sallie Mae $2,000 No Essay Scholarship deadline is August 31, 2026.",
+      "source": "S1, S0, S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.338989+00:00",
+      "last_seen": "2026-08-18T07:22:01.339004+00:00"
+    },
+    {
+      "id": "2785711175845669557",
+      "topic": "Award Amount",
+      "fact": "The scholarship awards $2,000.",
+      "source": "S1, S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339106+00:00",
+      "last_seen": "2026-08-18T07:22:01.339109+00:00"
+    },
+    {
+      "id": "3325576060099928813",
+      "topic": "Essay Requirement",
+      "fact": "No essay is required for this scholarship.",
+      "source": "S0, S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339239+00:00",
+      "last_seen": "2026-08-18T07:22:01.339241+00:00"
+    },
+    {
+      "id": "3970416629485022258",
+      "topic": "Number of Awards",
+      "fact": "12 awards are available per the listing.",
+      "source": "S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339342+00:00",
+      "last_seen": "2026-08-18T07:22:01.339344+00:00"
+    },
+    {
+      "id": "2854384023490858571",
+      "topic": "Eligibility Details",
+      "fact": "Full eligibility criteria are not visible in the provided snippets; applicants should verify on the official Sallie Mae page.",
+      "source": "S0, S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339445+00:00",
+      "last_seen": "2026-08-18T07:22:01.339447+00:00"
+    },
+    {
+      "id": "6609595166160589584",
+      "topic": "Sponsor",
+      "fact": "The official sponsor is Sallie Mae (referred to as Sallie).",
+      "source": "S1, S4",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339548+00:00",
+      "last_seen": "2026-08-18T07:22:01.339550+00:00"
+    },
+    {
+      "id": "5613760033191469757",
+      "topic": "Student Referral Version",
+      "fact": "There is a student referral version of the scholarship with the same deadline.",
+      "source": "S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339652+00:00",
+      "last_seen": "2026-08-18T07:22:01.339654+00:00"
+    },
+    {
+      "id": "3626324733712245989",
+      "topic": "Distinct Scholarship",
+      "fact": "The Niche no-essay scholarship is a different program.",
+      "source": "S4",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339756+00:00",
+      "last_seen": "2026-08-18T07:22:01.339759+00:00"
+    },
+    {
+      "id": "482809068896102975",
+      "topic": "Eligibility",
+      "fact": "Legal resident of the 50 U.S. states, D.C., or a U.S. territory",
+      "source": "S2",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.993357+00:00",
+      "last_seen": "2026-08-18T07:22:08.993373+00:00"
+    },
+    {
+      "id": "3966663465249264508",
+      "topic": "Eligibility",
+      "fact": "At least 17 years old at time of entry",
+      "source": "S2",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.993532+00:00",
+      "last_seen": "2026-08-18T07:22:08.993535+00:00"
+    },
+    {
+      "id": "7422916713528305037",
+      "topic": "Eligibility",
+      "fact": "Must meet one of four status-based criteria related to current enrollment or intended enrollment",
+      "source": "S2",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.993673+00:00",
+      "last_seen": "2026-08-18T07:22:08.993675+00:00"
+    },
+    {
+      "id": "8671358956175359065",
+      "topic": "Application process",
+      "fact": "No essay required",
+      "source": "S0, S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.993796+00:00",
+      "last_seen": "2026-08-18T07:22:08.993799+00:00"
+    },
+    {
+      "id": "419625065812052255",
+      "topic": "Application process",
+      "fact": "Apply through Sallie\u2019s scholarship page",
+      "source": "S0, S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.993935+00:00",
+      "last_seen": "2026-08-18T07:22:08.993937+00:00"
     }
   ],
   "deadlines": [
@@ -1660,6 +1813,33 @@
       "weight": 1.0,
       "first_seen": "2026-08-16T07:14:30.855786+00:00",
       "last_seen": "2026-08-16T07:14:30.855788+00:00"
+    },
+    {
+      "id": "3489890558458992085",
+      "title": "Sallie Mae $2,000 No Essay Scholarship",
+      "date": "2026-08-31",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:21:52.422548+00:00",
+      "last_seen": "2026-08-18T07:21:52.422551+00:00"
+    },
+    {
+      "id": "2330494012926014835",
+      "title": "Sallie Mae $2,000 No Essay Scholarship Deadline",
+      "date": "2026-08-31",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339808+00:00",
+      "last_seen": "2026-08-18T07:22:01.339811+00:00"
+    },
+    {
+      "id": "912324969837093168",
+      "title": "Sallie Mae $2,000 No Essay Scholarship deadline",
+      "date": "2026-08-31",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.994002+00:00",
+      "last_seen": "2026-08-18T07:22:08.994005+00:00"
     }
   ],
   "scholarships": [
@@ -1981,6 +2161,39 @@
       "weight": 1.0,
       "first_seen": "2026-08-16T07:14:30.855900+00:00",
       "last_seen": "2026-08-16T07:14:30.855905+00:00"
+    },
+    {
+      "id": "3489890558458992085",
+      "name": "Sallie Mae $2,000 No Essay Scholarship",
+      "amount": "$2,000",
+      "deadline": "2026-08-31",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "eligibility": "Legal resident of the 50 U.S. states, DC, or a U.S. territory; at least 17 years old at time of entry; must meet one of four status-based criteria related to current enrollment/education status.",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:21:52.422585+00:00",
+      "last_seen": "2026-08-18T07:21:52.422588+00:00"
+    },
+    {
+      "id": "3489890558458992085",
+      "name": "Sallie Mae $2,000 No Essay Scholarship",
+      "amount": "$2,000",
+      "deadline": "2026-08-31",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "eligibility": "Eligibility details not fully visible in snippets; check official page for complete requirements.",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:01.339846+00:00",
+      "last_seen": "2026-08-18T07:22:01.339848+00:00"
+    },
+    {
+      "id": "3489890558458992085",
+      "name": "Sallie Mae $2,000 No Essay Scholarship",
+      "amount": "$2,000",
+      "deadline": "2026-08-31",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "eligibility": "Legal resident of the 50 U.S. states, D.C., or a U.S. territory; at least 17 years old; must meet one of four status-based criteria related to current enrollment or intended enrollment",
+      "weight": 1.0,
+      "first_seen": "2026-08-18T07:22:08.994043+00:00",
+      "last_seen": "2026-08-18T07:22:08.994045+00:00"
     }
   ],
   "coverage": {
@@ -2211,6 +2424,10 @@
     "What are the FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?": {
       "last_researched": "2026-08-17",
       "search_count": 1
+    },
+    "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?": {
+      "last_researched": "2026-08-18",
+      "search_count": 3
     }
   },
   "digest_history": [
@@ -2416,6 +2633,14 @@
         "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September 2026 (besides Gates Scholarship and Breakthrough Junior Challenge), and what are their eligibility requirements and award amounts?",
         "What are the exact Phase I essay prompts, required documents, and submission process for the Gates Scholarship class of 2027 due September 15, 2026?",
         "What are the exact video submission requirements, format specifications, and judging criteria for the Breakthrough Junior Challenge 2026 due September 15, 2026?"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "topics_covered": [
+        "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?",
+        "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?",
+        "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?"
       ]
     }
   ]
