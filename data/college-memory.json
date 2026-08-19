@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_run": "2026-08-18T07:23:18.007388+00:00",
-    "run_count": 14
+    "last_run": "2026-08-19T07:25:37.291992+00:00",
+    "run_count": 15
   },
   "profile": {},
   "interests": [
@@ -2322,12 +2322,12 @@
       "search_count": 2
     },
     "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science at Purdue University, University of Michigan, and University of Texas at Dallas?": {
-      "last_researched": "2026-08-12",
-      "search_count": 1
+      "last_researched": "2026-08-19",
+      "search_count": 3
     },
     "What are the Phase I essay prompts, required documents, and submission process for the Gates Scholarship class of 2027 due September 15, 2026?": {
-      "last_researched": "2026-08-12",
-      "search_count": 2
+      "last_researched": "2026-08-19",
+      "search_count": 3
     },
     "What are the FAFSA opening date for 2027-2028, CSS Profile opening date, and priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?": {
       "last_researched": "2026-08-12",
@@ -2366,8 +2366,8 @@
       "search_count": 3
     },
     "What are the exact QuestBridge National College Match 2026-2027 essay prompts and recommendation letter requirements for the October 1, 2026 deadline?": {
-      "last_researched": "2026-08-17",
-      "search_count": 4
+      "last_researched": "2026-08-19",
+      "search_count": 5
     },
     "Under Texas's automatic admissions law, what are the top 6% requirements for Fall 2027, and do UT Austin Computer Science and Texas A&M Engineering programs admit all automatically eligible students or require a separate review?": {
       "last_researched": "2026-08-14",
@@ -2406,8 +2406,8 @@
       "search_count": 1
     },
     "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?": {
-      "last_researched": "2026-08-16",
-      "search_count": 2
+      "last_researched": "2026-08-19",
+      "search_count": 4
     },
     "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 15, 2026, and what are their admission requirements and deadlines?": {
       "last_researched": "2026-08-16",
@@ -2427,6 +2427,14 @@
     },
     "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?": {
       "last_researched": "2026-08-18",
+      "search_count": 3
+    },
+    "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?": {
+      "last_researched": "2026-08-19",
+      "search_count": 3
+    },
+    "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?": {
+      "last_researched": "2026-08-19",
       "search_count": 3
     }
   },
@@ -2641,6 +2649,23 @@
         "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?",
         "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?",
         "What are the eligibility requirements, application process, and deadline for the Sallie Mae $2,000 No Essay Scholarship due on August 31, 2026?"
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "topics_covered": [
+        "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science at Purdue University, University of Michigan, and University of Texas at Dallas?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?",
+        "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?",
+        "What are the exact QuestBridge National College Match 2026-2027 essay prompts and recommendation letter requirements for the October 1, 2026 deadline?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?",
+        "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?",
+        "What are the Phase I essay prompts, required documents, and submission process for the Gates Scholarship class of 2027 due September 15, 2026?",
+        "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?",
+        "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?",
+        "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?",
+        "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science at Purdue University, University of Michigan, and University of Texas at Dallas?"
       ]
     }
   ]
