@@ -1,59 +1,43 @@
-# TODAY'S COLLEGE DIGEST — August 19, 2026  
-**Student:** Class of 2027 | Richardson High School (TX) | Tech/STEM focus (CS, AI, Engineering, Data Science)
+# TODAY'S COLLEGE DIGEST — August 20, 2026  
+**Student:** Class of 2027 | Richardson High School (TX) | Focus: CS, AI, Engineering, Data Science  
 
 ---
 
-### 1. Due Soon — Most Urgent Deadlines (next 45 days)
+### 1. Due Soon — Urgent Deadlines & Scholarships (closing soonest)
 
-| # | Scholarship / Deadline | Date | Days Left | Link |
-|---|------------------------|------|-----------|------|
-| 1 | **Sallie Mae $2,000 No Essay Scholarship** | Aug 31, 2026 | **12** | [Apply](https://www.sallie.com/scholarships/no-essay) |
-| 2 | **Gates Scholarship Phase I** (full cost-of-attendance) | Sep 15, 2026 | **27** | [Portal](https://www.thegatesscholarship.org/scholarship) |
-| 3 | **Breakthrough Junior Challenge** ($250K STEM video contest) | Sep 15, 2026 | **27** | [Details](https://scholarships360.org/scholarships/search/breakthrough-junior-challenge) |
-| 4 | **QuestBridge National College Match** (full 4‑yr scholarship) | Oct 1, 2026 | **43** | [Apply](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
-| 5 | **Sports Gear Swag Scholarship** ($1,000) | Oct 1, 2026 | **43** | [Fastweb](https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors) |
+| Scholarship / Deadline | Date | Days Left | Link |
+|------------------------|------|-----------|------|
+| **Sallie Mae $2,000 No‑Essay Scholarship** | Aug 31, 2026 | 11 | [Apply](https://www.sallie.com/scholarships/no-essay) |
+| **The Gates Scholarship — Phase I** | Sep 15, 2026 | 26 | [Apply](https://www.thegatesscholarship.org/scholarship) |
+| **Breakthrough Junior Challenge** (STEM video contest, $250k) | Sep 15, 2026 | 26 | [Details](https://scholarships360.org/scholarships/stem-scholarships) |
+| **QuestBridge National College Match** (full 4‑yr scholarship) | Oct 1, 2026 | 42 | [Apply](https://www.questbridge.org/apply-to-college/programs/national-college-match/apply) |
+| **Texas A&M Engineering Priority Deadline** (for Fall 2027) | Oct 15, 2026 | 56 | [Info](https://www.blinn.edu/tamu-engineering-at-blinn/admissions-process.html) |
 
-> **Also opening Oct 1:** FAFSA 2027‑28 (historical date; **no official launch date confirmed yet**) and CSS Profile. Gather 2025 tax docs now.
-
----
-
-### 2. What's New Today
-
-- **NEW** **FAFSA 2027‑28**: Dept. of Education only published an “information collection” notice — **no official opening date or delay announcement** yet. Monitor [StudentAid.gov](https://studentaid.gov).  
-- **NEW** **UT Austin priority financial‑aid deadline**: **Jan 15, 2027** (state priority for FAFSA/TASFA).  
-- **NEW** **Purdue CS Early Action**: **Nov 1, 2026** (non‑binding); Regular Decision Jan 15, 2027.  
-- **NEW** **University of Michigan**: **Test‑optional for 2027 cycle** — student chooses whether to submit SAT/ACT.  
-- **NEW** **UT Dallas**: **No Fall 2027 CS deadlines, test policy, or requirements found** in current sources — check admissions site directly.  
-- **NEW** **Undergraduate AI/Data Science majors**: No new programs with Fall 2027 admission details announced since Aug 16. Only graduate programs (UF, Denver, Northwestern) and a mention of **UC Merced AI B.S. “launching in fall”** (year/requirements unspecified).  
-- **NEW** **QuestBridge**: Oct 1 deadline confirmed, but **2026‑27 essay prompts and recommender requirements not yet published** — check portal when live.  
-- **NEW** **Regeneron Science Talent Search**: **Nov 5, 2026** deadline ($250K top award) — only national STEM scholarship with fall deadline beyond Gates/Breakthrough.
+> **Note:** FAFSA & CSS Profile **open Oct 1** — not a deadline, but file early for best aid.
 
 ---
 
-### 3. Trends & Study Options (Tech/STEM)
-
-- **California publics expanding AI undergrad degrees**: UC San Diego has AI offerings; UC Merced reportedly launching an **AI B.S. major** (fall term, year TBD). Worth tracking for Fall 2027.  
-- **Employer demand strong**: New‑grad Data Science/AI/ML roles posting **$92K–$200K** salaries.  
-- **Graduate programs launching**: UF (MS in AI Systems), Denver (Hybrid MS Applied Data Science & AI), Northwestern (MS ML & Data Science) — useful if student considers accelerated master’s later.  
-- **Why it matters**: Early exposure to dedicated AI curricula and strong industry pipelines can shape college list and major selection.
-
----
-
-### 4. Suggested Next Steps for This Week
-
-1. **Submit Sallie Mae No‑Essay Scholarship** (2‑min application) by **Aug 31**.  
-2. **Finalize Gates Scholarship Phase I**: Complete essays, upload documents, submit via myTGS portal by **Sep 15**.  
-3. **Record/edit Breakthrough Junior Challenge video** (2‑min STEM explanation) — submit by **Sep 15**.  
-4. **Start QuestBridge application** (opens late summer): Create account, gather transcripts, test scores, recommender contacts — deadline **Oct 1**.  
-5. **Open Common App & ApplyTexas accounts**: Add target schools (Purdue EA Nov 1, Rice ED Nov 1, CMU ED Nov 1, UT Austin, Texas A&M, etc.) and begin core essays/activities list.  
-6. **Pull 2025 tax returns/W‑2s** for FAFSA/CSS Profile (opens ~Oct 1).  
-7. **Bookmark UC Merced & UC San Diego admissions pages** for AI B.S. updates; set monthly check reminders.
+### 2. What's New Today  
+**NEW** **UT Austin requires SAT/ACT for Fall 2027** (test‑required), while **Texas A&M & UH remain test‑optional**.  
+**NEW** **UT Austin CS is fall‑only admission**; top 5% class rank guarantees auto‑admit (must submit rank + class size by December).  
+**NEW** **Texas A&M Engineering priority deadline is Oct 15** — earlier than general admission.  
+**NEW** Nearest STEM‑specific scholarships: **Ingram Engineering (Texas State, Dec 15)** and national STEM awards (Dec 15) — no new awards within 90 days.  
+**NEW** **AI/ML integration** is reshaping CS/Engineering roles; **ECE entry salaries $75K–$110K+** driven by AI, IoT, robotics.
 
 ---
 
-### 5. Open Questions (Need Answers)
+### 3. Trends & Study Options (what’s hot for this student)  
+- **AI/ML is now core** to CS/IT roles — programs with dedicated AI/ML curricula, capstones, and industry co‑ops give a hiring edge.  
+- **Electrical & Computer Engineering (ECE)** is the highest‑demand engineering field (AI, IoT, robotics) with the strongest entry‑level salary data.  
+- **Data Science & Systems Engineering** are high‑growth interdisciplinary majors; look for programs that blend CS, stats, and domain applications.  
+- **Engineering dominates top‑paying entry jobs** — prioritize schools with strong internship pipelines and project‑based learning.
 
-1. **Exact FAFSA 2027‑28 opening date** — will it be Oct 1, 2026, or delayed?  
-2. **Priority financial‑aid deadlines** for Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, UIUC (Fall 2027).  
-3. **QuestBridge 2026‑27 essay prompts & recommendation letter specs** (number, who, submission method).  
-4. **UT Dallas Fall 2027 CS deadlines, test‑optional policy,
+---
+
+### 4. Suggested Next Steps for This Week  
+1. **Submit Sallie Mae No‑Essay Scholarship** (5 min, deadline Aug 31).  
+2. **Start Gates Scholarship Phase I** — draft essays, request recommendations (due Sep 15).  
+3. **Outline Breakthrough Junior Challenge video** if interested (3‑min STEM explanation, due Sep 15).  
+4. **Create Common App & ApplyTexas accounts**; add UT Austin, Texas A&M, and 3–5 other targets; review essay prompts.  
+5. **Request official transcript** from Richardson HS showing 9th–11th grade coursework + class rank (required for UT Austin auto‑admit verification).  
+6. **Register for SAT/ACT** if not yet taken (UT Austin requires scores; Texas A&M optional but recommended if

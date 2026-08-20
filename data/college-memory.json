@@ -1,14 +1,14 @@
 {
   "meta": {
-    "last_run": "2026-08-19T07:25:37.291992+00:00",
-    "run_count": 15
+    "last_run": "2026-08-20T07:29:25.057683+00:00",
+    "run_count": 16
   },
   "profile": {},
   "interests": [
     {
       "name": "Computer Science",
       "strength": 3,
-      "last_seen": "2026-08-10T23:53:36.798857+00:00"
+      "last_seen": "2026-08-20T07:28:35.423788+00:00"
     },
     {
       "name": "Engineering",
@@ -18,12 +18,12 @@
     {
       "name": "Artificial Intelligence",
       "strength": 3,
-      "last_seen": "2026-08-10T21:22:23.682466+00:00"
+      "last_seen": "2026-08-20T07:28:35.423834+00:00"
     },
     {
       "name": "Data Science",
-      "strength": 1,
-      "last_seen": "2026-08-10T20:05:38.878978+00:00"
+      "strength": 2,
+      "last_seen": "2026-08-20T07:28:35.423809+00:00"
     },
     {
       "name": "Computer Science & Engineering",
@@ -33,7 +33,7 @@
     {
       "name": "STEM",
       "strength": 3,
-      "last_seen": "2026-08-15T07:11:44.607842+00:00"
+      "last_seen": "2026-08-20T07:26:30.515655+00:00"
     },
     {
       "name": "Computer Science and Engineering",
@@ -89,6 +89,51 @@
       "name": "Assured Enrollment programs",
       "strength": 1,
       "last_seen": "2026-08-16T07:14:30.855937+00:00"
+    },
+    {
+      "name": "Electrical Engineering",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423799+00:00"
+    },
+    {
+      "name": "Computer Engineering",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423805+00:00"
+    },
+    {
+      "name": "Systems Engineering",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423814+00:00"
+    },
+    {
+      "name": "Chemical Engineering",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423819+00:00"
+    },
+    {
+      "name": "Mathematics",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423825+00:00"
+    },
+    {
+      "name": "Statistics",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423831+00:00"
+    },
+    {
+      "name": "Machine Learning",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423840+00:00"
+    },
+    {
+      "name": "Robotics",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423846+00:00"
+    },
+    {
+      "name": "Internet of Things",
+      "strength": 1,
+      "last_seen": "2026-08-20T07:28:35.423852+00:00"
     }
   ],
   "open_questions": [],
@@ -1361,6 +1406,204 @@
       "weight": 1.0,
       "first_seen": "2026-08-18T07:22:08.993935+00:00",
       "last_seen": "2026-08-18T07:22:08.993937+00:00"
+    },
+    {
+      "id": "8422941193079978290",
+      "topic": "UT Austin CS Admission",
+      "fact": "Computer science is fall-only admission; students must begin in a fall semester.",
+      "source": "[S1](https://catalog.utexas.edu/general-information/admission/undergraduate-admission)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.513095+00:00",
+      "last_seen": "2026-08-20T07:26:30.513113+00:00"
+    },
+    {
+      "id": "665790002049086105",
+      "topic": "UT Austin Auto-Admit",
+      "fact": "Texas residents in the top 5% of their high school class are automatically admitted for Summer/Fall 2027 and Spring 2028.",
+      "source": "[S0](https://www.gradgpt.com/blog/ut-austin-admission-requirements)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.513322+00:00",
+      "last_seen": "2026-08-20T07:26:30.513326+00:00"
+    },
+    {
+      "id": "3809760054334965607",
+      "topic": "UT Austin Transcripts",
+      "fact": "Transcripts must list all high school coursework from 9th\u201311th grade and class rank; if school does not rank, include a statement from the school.",
+      "source": "[S4](https://admissions.utexas.edu/apply/freshman)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.513518+00:00",
+      "last_seen": "2026-08-20T07:26:30.513521+00:00"
+    },
+    {
+      "id": "922866191368151532",
+      "topic": "UT Austin Test Codes",
+      "fact": "SAT code: 6882; ACT code: 4240.",
+      "source": "[S4](https://admissions.utexas.edu/apply/freshman)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.513702+00:00",
+      "last_seen": "2026-08-20T07:26:30.513704+00:00"
+    },
+    {
+      "id": "624413753904804226",
+      "topic": "UT Austin High School Prerequisites",
+      "fact": "Foreign language credits required; ASL and computer science count as foreign languages. Physical education (1 credit) is recommended.",
+      "source": "[S5](https://admissions.utexas.edu/apply/application-materials/high-school-prerequisites)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.513958+00:00",
+      "last_seen": "2026-08-20T07:26:30.513964+00:00"
+    },
+    {
+      "id": "5077340002627974379",
+      "topic": "UT Austin Test Policy 2026-2027",
+      "fact": "SAT/ACT scores are required for admission.",
+      "source": "[S3](https://generalacademic.com/test-optional-colleges-2026-houston-texas-guide)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.514184+00:00",
+      "last_seen": "2026-08-20T07:26:30.514188+00:00"
+    },
+    {
+      "id": "2259829838959370977",
+      "topic": "Texas A&M Test Policy 2026-2027",
+      "fact": "Test-optional; scores not required.",
+      "source": "[S3](https://generalacademic.com/test-optional-colleges-2026-houston-texas-guide)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.514369+00:00",
+      "last_seen": "2026-08-20T07:26:30.514371+00:00"
+    },
+    {
+      "id": "3425100852157933344",
+      "topic": "University of Houston Test Policy 2026-2027",
+      "fact": "Test-optional; scores not required.",
+      "source": "[S3](https://generalacademic.com/test-optional-colleges-2026-houston-texas-guide)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.514537+00:00",
+      "last_seen": "2026-08-20T07:26:30.514539+00:00"
+    },
+    {
+      "id": "3905612992727965967",
+      "topic": "Texas Top 10% Rule",
+      "fact": "Eligible Texas residents graduating in the top 10% of their high school class receive automatic admission (subject to capacity limits; UT Austin uses a tighter threshold).",
+      "source": "[S2](https://www.findmyorbit.com/blog/best-colleges-in-texas-2026)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.514703+00:00",
+      "last_seen": "2026-08-20T07:26:30.514705+00:00"
+    },
+    {
+      "id": "8209046675958234930",
+      "topic": "UT Austin & Texas A&M Application Opening",
+      "fact": "Fall 2027 applications open August 1, 2026.",
+      "source": "General Academic timeline (mentioned in second Q)",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.514865+00:00",
+      "last_seen": "2026-08-20T07:26:30.514867+00:00"
+    },
+    {
+      "id": "6675528451742551271",
+      "topic": "Texas A&M Application Processing",
+      "fact": "Allow 3\u20135 business days for Texas A&M to receive application after submission.",
+      "source": "Second Q",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.515087+00:00",
+      "last_seen": "2026-08-20T07:26:30.515093+00:00"
+    },
+    {
+      "id": "93252079497386963",
+      "topic": "Texas A&M Residency",
+      "fact": "Texas residents completing high school in another state must submit a residency questionnaire.",
+      "source": "Second Q",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.515257+00:00",
+      "last_seen": "2026-08-20T07:26:30.515259+00:00"
+    },
+    {
+      "id": "388081078851778833",
+      "topic": "Application Platforms",
+      "fact": "Common App, ApplyTexas, and institutional applications are used.",
+      "source": "Second Q",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.515421+00:00",
+      "last_seen": "2026-08-20T07:26:30.515423+00:00"
+    },
+    {
+      "id": "6301949033505959955",
+      "topic": "Free College Application Week 2027",
+      "fact": "October 11\u201317, 2027; applications must be submitted via ApplyTexas by 11:59 p.m. CDT on the last day to qualify (for 2028 cycle).",
+      "source": "https://www.highered.texas.gov/free-college-application-week",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.515570+00:00",
+      "last_seen": "2026-08-20T07:26:30.515572+00:00"
+    },
+    {
+      "id": "7376147857531650427",
+      "topic": "Scholarship Deadline Window",
+      "fact": "No new STEM scholarships for Texas high school seniors with deadlines within 90 days were identified in current search results.",
+      "source": "S0",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.421883+00:00",
+      "last_seen": "2026-08-20T07:28:35.421900+00:00"
+    },
+    {
+      "id": "4888625239001211093",
+      "topic": "Application Opening",
+      "fact": "University of Texas at Austin and Texas A&M University both open Fall 2027 applications on August 1, 2026.",
+      "source": "S0",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.422147+00:00",
+      "last_seen": "2026-08-20T07:28:35.422151+00:00"
+    },
+    {
+      "id": "1950854953429611857",
+      "topic": "Free Application Week",
+      "fact": "Free College Application Week for 2027 is scheduled October 11\u201317, 2027 but likely pertains to Fall 2028 enrollment cycle.",
+      "source": "S5",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.422348+00:00",
+      "last_seen": "2026-08-20T07:28:35.422350+00:00"
+    },
+    {
+      "id": "4261799709757678083",
+      "topic": "Automatic Admission",
+      "fact": "Texas A&M University automatic admission ranking policies apply per Texas House Bill 3041.",
+      "source": "S4",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.422547+00:00",
+      "last_seen": "2026-08-20T07:28:35.422549+00:00"
+    },
+    {
+      "id": "4249136669302429200",
+      "topic": "High-Demand Majors",
+      "fact": "Computer Science & IT, Electrical & Computer Engineering, Data Science & Analytics, Systems Engineering, Chemical Engineering, and Mathematics & Statistics are top high-demand STEM majors for class of 2027.",
+      "source": "S0,S1,S2,S3,S5",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.422748+00:00",
+      "last_seen": "2026-08-20T07:28:35.422750+00:00"
+    },
+    {
+      "id": "5022587149376043465",
+      "topic": "Career Trends",
+      "fact": "AI/ML integration, interdisciplinary engineering, engineering salary premium, and data-driven decision making are key career trends for STEM graduates.",
+      "source": "S2,S3,S5",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.422948+00:00",
+      "last_seen": "2026-08-20T07:28:35.422951+00:00"
+    },
+    {
+      "id": "3796636250303316236",
+      "topic": "Salary Range",
+      "fact": "Electrical & Computer Engineering average entry-level salaries range $75K\u2013$110K+.",
+      "source": "S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423162+00:00",
+      "last_seen": "2026-08-20T07:28:35.423165+00:00"
+    },
+    {
+      "id": "6440928115361332890",
+      "topic": "Employment Growth",
+      "fact": "Chemical Engineering projected 6% employment growth (2018\u20132028) driven by manufacturing demand.",
+      "source": "S1",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423343+00:00",
+      "last_seen": "2026-08-20T07:28:35.423345+00:00"
     }
   ],
   "deadlines": [
@@ -1840,6 +2083,60 @@
       "weight": 1.0,
       "first_seen": "2026-08-18T07:22:08.994002+00:00",
       "last_seen": "2026-08-18T07:22:08.994005+00:00"
+    },
+    {
+      "id": "1343210493237065622",
+      "title": "Free College Application Week 2027 deadline",
+      "date": "2027-10-17",
+      "url": "https://www.highered.texas.gov/free-college-application-week",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:26:30.515634+00:00",
+      "last_seen": "2026-08-20T07:26:30.515636+00:00"
+    },
+    {
+      "id": "8668377794874612613",
+      "title": "Ingram Engineering Scholarship Deadline",
+      "date": "2026-12-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423416+00:00",
+      "last_seen": "2026-08-20T07:28:35.423418+00:00"
+    },
+    {
+      "id": "7268967970403454265",
+      "title": "Top STEM Scholarships Deadline",
+      "date": "2026-12-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423480+00:00",
+      "last_seen": "2026-08-20T07:28:35.423482+00:00"
+    },
+    {
+      "id": "4758987565213209586",
+      "title": "UT Austin Fall 2027 Application Opens",
+      "date": "2026-08-01",
+      "url": "https://generalacademic.com/college-applications-timeline-for-texas-students",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423546+00:00",
+      "last_seen": "2026-08-20T07:28:35.423548+00:00"
+    },
+    {
+      "id": "6923650088219220997",
+      "title": "Texas A&M Fall 2027 Application Opens",
+      "date": "2026-08-01",
+      "url": "https://generalacademic.com/college-applications-timeline-for-texas-students",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423613+00:00",
+      "last_seen": "2026-08-20T07:28:35.423615+00:00"
+    },
+    {
+      "id": "7910502907840574845",
+      "title": "Free College Application Week 2027",
+      "date": "2027-10-11",
+      "url": "https://www.highered.texas.gov/free-college-application-week",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423681+00:00",
+      "last_seen": "2026-08-20T07:28:35.423684+00:00"
     }
   ],
   "scholarships": [
@@ -2194,6 +2491,28 @@
       "weight": 1.0,
       "first_seen": "2026-08-18T07:22:08.994043+00:00",
       "last_seen": "2026-08-18T07:22:08.994045+00:00"
+    },
+    {
+      "id": "5201164283840257994",
+      "name": "Ingram Engineering Scholarship",
+      "amount": "Up to $16,000",
+      "deadline": "2026-12-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "eligibility": "High school seniors; must pursue engineering at Texas State University",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423735+00:00",
+      "last_seen": "2026-08-20T07:28:35.423737+00:00"
+    },
+    {
+      "id": "4958306198817456204",
+      "name": "Top Stem Scholarships",
+      "amount": "Up to $32,000",
+      "deadline": "2026-12-15",
+      "url": "https://scholarships360.org/scholarships/stem-scholarships",
+      "eligibility": "High school seniors; various STEM fields",
+      "weight": 1.0,
+      "first_seen": "2026-08-20T07:28:35.423780+00:00",
+      "last_seen": "2026-08-20T07:28:35.423782+00:00"
     }
   ],
   "coverage": {
@@ -2436,6 +2755,26 @@
     "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?": {
       "last_researched": "2026-08-19",
       "search_count": 3
+    },
+    "UT Austin Fall 2027 computer science admission requirements and test policy": {
+      "last_researched": "2026-08-20",
+      "search_count": 3
+    },
+    "STEM scholarships for Texas high school seniors closing in the next 90 days": {
+      "last_researched": "2026-08-20",
+      "search_count": 2
+    },
+    "Current high-demand tech/STEM college majors and career trends for the class entering 2027": {
+      "last_researched": "2026-08-20",
+      "search_count": 3
+    },
+    "Fall 2027 college application deadlines for Texas public universities (UT Austin, Texas A&M) STEM majors": {
+      "last_researched": "2026-08-20",
+      "search_count": 3
+    },
+    "Test-optional vs required admissions policies 2026-2027 for top Texas universities": {
+      "last_researched": "2026-08-20",
+      "search_count": 1
     }
   },
   "digest_history": [
@@ -2666,6 +3005,23 @@
         "Have any universities announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?",
         "What are the exact FAFSA opening date for the 2027-2028 academic year and any recent announcements about delays, and what are the priority financial aid deadlines for UT Austin, Texas A&M, Rice, Stanford, MIT, Carnegie Mellon, Georgia Tech, and UIUC for Fall 2027?",
         "What are the early action and early decision deadlines, test-optional policies, and application requirements for Fall 2027 Computer Science at Purdue University, University of Michigan, and University of Texas at Dallas?"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "topics_covered": [
+        "UT Austin Fall 2027 computer science admission requirements and test policy",
+        "Fall 2027 college application deadlines for Texas public universities (UT Austin, Texas A&M) STEM majors",
+        "Test-optional vs required admissions policies 2026-2027 for top Texas universities",
+        "Current high-demand tech/STEM college majors and career trends for the class entering 2027",
+        "STEM scholarships for Texas high school seniors closing in the next 90 days",
+        "Fall 2027 college application deadlines for Texas public universities (UT Austin, Texas A&M) STEM majors",
+        "Current high-demand tech/STEM college majors and career trends for the class entering 2027",
+        "UT Austin Fall 2027 computer science admission requirements and test policy",
+        "Current high-demand tech/STEM college majors and career trends for the class entering 2027",
+        "Fall 2027 college application deadlines for Texas public universities (UT Austin, Texas A&M) STEM majors",
+        "STEM scholarships for Texas high school seniors closing in the next 90 days",
+        "UT Austin Fall 2027 computer science admission requirements and test policy"
       ]
     }
   ]
