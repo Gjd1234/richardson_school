@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_run": "2026-08-20T07:29:25.057683+00:00",
-    "run_count": 16
+    "last_run": "2026-08-21T07:36:34.256506+00:00",
+    "run_count": 17
   },
   "profile": {},
   "interests": [
     {
       "name": "Computer Science",
       "strength": 3,
-      "last_seen": "2026-08-20T07:28:35.423788+00:00"
+      "last_seen": "2026-08-21T07:33:56.397901+00:00"
     },
     {
       "name": "Engineering",
       "strength": 3,
-      "last_seen": "2026-08-10T23:48:50.634765+00:00"
+      "last_seen": "2026-08-21T07:33:56.397906+00:00"
     },
     {
       "name": "Artificial Intelligence",
@@ -134,6 +134,16 @@
       "name": "Internet of Things",
       "strength": 1,
       "last_seen": "2026-08-20T07:28:35.423852+00:00"
+    },
+    {
+      "name": "STEM scholarships",
+      "strength": 1,
+      "last_seen": "2026-08-21T07:33:56.397916+00:00"
+    },
+    {
+      "name": "QuestBridge National College Match",
+      "strength": 1,
+      "last_seen": "2026-08-21T07:33:56.397922+00:00"
     }
   ],
   "open_questions": [],
@@ -1604,6 +1614,87 @@
       "weight": 1.0,
       "first_seen": "2026-08-20T07:28:35.423343+00:00",
       "last_seen": "2026-08-20T07:28:35.423345+00:00"
+    },
+    {
+      "id": "6694038093316693185",
+      "topic": "Breakthrough Junior Challenge",
+      "fact": "Deadline is September 15, 2026; award is $250,000; eligibility: students aged 13\u201318 who submit a 2\u2011minute video explaining a big idea in science, math, or technology.",
+      "source": "S5 (fastweb.com)",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.396553+00:00",
+      "last_seen": "2026-08-21T07:33:56.396569+00:00"
+    },
+    {
+      "id": "3065258505500711377",
+      "topic": "Regeneron Science Talent Search",
+      "fact": "Deadline is November 5, 2026; top prize up to $250,000 with over $3.1M total awarded annually; eligibility: high school seniors who conduct independent science, math, or engineering research and submit a complete application.",
+      "source": "S1 (fastweb.com), S2 (riseglobaleducation.com)",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.396694+00:00",
+      "last_seen": "2026-08-21T07:33:56.396697+00:00"
+    },
+    {
+      "id": "1743989940155744432",
+      "topic": "QuestBridge National College Match",
+      "fact": "Provides a full four\u2011year scholarship (tuition, room, board, and expenses) to matched students; partner colleges include 55 elite institutions for the 2027 match cycle.",
+      "source": "S1 (LinkedIn), S2 (QuestBridge official)",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.396821+00:00",
+      "last_seen": "2026-08-21T07:33:56.396823+00:00"
+    },
+    {
+      "id": "8083321487187977298",
+      "topic": "QuestBridge eligibility",
+      "fact": "Targets high\u2011achieving, low\u2011income seniors (typically household income <$65k); STEM focus and state residency do not affect eligibility.",
+      "source": "S2 (QuestBridge official)",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.396945+00:00",
+      "last_seen": "2026-08-21T07:33:56.396948+00:00"
+    },
+    {
+      "id": "4709283619405284905",
+      "topic": "QuestBridge application timeline",
+      "fact": "Application typically opens in summer and closes in late September (e.g., September 26, 2026 for the 2026\u20112027 cycle).",
+      "source": "S2 (QuestBridge official)",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397087+00:00",
+      "last_seen": "2026-08-21T07:33:56.397090+00:00"
+    },
+    {
+      "id": "6302354995734408455",
+      "topic": "QuestBridge partner colleges",
+      "fact": "All listed partner colleges offer undergraduate Computer Science and/or Engineering majors; matched students receive full financial\u2011aid packages covering cost of attendance.",
+      "source": "S0 (Instagram), S1, S2, S5 (Quora)",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397214+00:00",
+      "last_seen": "2026-08-21T07:33:56.397216+00:00"
+    },
+    {
+      "id": "8227954814017893343",
+      "topic": "QuestBridge partner list updates",
+      "fact": "No source documents additions or removals to the partner roster after August 2026; the August 3, 2026 Instagram post reflects the lineup at that time.",
+      "source": "S0, S1, S2",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397341+00:00",
+      "last_seen": "2026-08-21T07:33:56.397343+00:00"
+    },
+    {
+      "id": "6512546610637021637",
+      "topic": "Edison Scholars Program",
+      "fact": "Deadline is January 23 (year not specified in sources); restricted to Southern California residents.",
+      "source": "S3",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397467+00:00",
+      "last_seen": "2026-08-21T07:33:56.397469+00:00"
+    },
+    {
+      "id": "6801500767955293702",
+      "topic": "Other STEM scholarships",
+      "fact": "All other scholarships in the searched sources have March 2027 deadlines; Scholarships360 list shows an expected open date of October 2026 but no deadline or name.",
+      "source": "S4",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397593+00:00",
+      "last_seen": "2026-08-21T07:33:56.397595+00:00"
     }
   ],
   "deadlines": [
@@ -2137,6 +2228,33 @@
       "weight": 1.0,
       "first_seen": "2026-08-20T07:28:35.423681+00:00",
       "last_seen": "2026-08-20T07:28:35.423684+00:00"
+    },
+    {
+      "id": "1139520559076608157",
+      "title": "Breakthrough Junior Challenge",
+      "date": "2026-09-15",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-juniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397650+00:00",
+      "last_seen": "2026-08-21T07:33:56.397652+00:00"
+    },
+    {
+      "id": "25623875854931218",
+      "title": "Regeneron Science Talent Search",
+      "date": "2026-11-05",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397729+00:00",
+      "last_seen": "2026-08-21T07:33:56.397733+00:00"
+    },
+    {
+      "id": "1428177751243798078",
+      "title": "QuestBridge National College Match Application",
+      "date": "2026-09-26",
+      "url": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397787+00:00",
+      "last_seen": "2026-08-21T07:33:56.397789+00:00"
     }
   ],
   "scholarships": [
@@ -2513,6 +2631,39 @@
       "weight": 1.0,
       "first_seen": "2026-08-20T07:28:35.423780+00:00",
       "last_seen": "2026-08-20T07:28:35.423782+00:00"
+    },
+    {
+      "id": "1139520559076608157",
+      "name": "Breakthrough Junior Challenge",
+      "amount": "$250,000",
+      "deadline": "2026-09-15",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-juniors",
+      "eligibility": "Students aged 13\u201318; submit a 2\u2011minute video explaining a big idea in science, math, or technology.",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397825+00:00",
+      "last_seen": "2026-08-21T07:33:56.397828+00:00"
+    },
+    {
+      "id": "25623875854931218",
+      "name": "Regeneron Science Talent Search",
+      "amount": "Up to $250,000 (top prize); over $3.1M total annually",
+      "deadline": "2026-11-05",
+      "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-high-school-seniors",
+      "eligibility": "High school seniors who conduct independent science, math, or engineering research and submit a complete application.",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397859+00:00",
+      "last_seen": "2026-08-21T07:33:56.397861+00:00"
+    },
+    {
+      "id": "2353626007384802106",
+      "name": "Questbridge National College Match",
+      "amount": "Full four\u2011year scholarship (tuition, room, board, and expenses)",
+      "deadline": "2026-09-26",
+      "url": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
+      "eligibility": "High\u2011achieving, low\u2011income seniors (typically household income <$65k); open to all majors including Computer Science and Engineering.",
+      "weight": 1.0,
+      "first_seen": "2026-08-21T07:33:56.397892+00:00",
+      "last_seen": "2026-08-21T07:33:56.397894+00:00"
     }
   ],
   "coverage": {
@@ -2775,6 +2926,26 @@
     "Test-optional vs required admissions policies 2026-2027 for top Texas universities": {
       "last_researched": "2026-08-20",
       "search_count": 1
+    },
+    "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond the Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?": {
+      "last_researched": "2026-08-21",
+      "search_count": 3
+    },
+    "Which universities have announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?": {
+      "last_researched": "2026-08-21",
+      "search_count": 2
+    },
+    "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, UH, Texas Tech) require separate engineering or computer science applications or have earlier deadlines?": {
+      "last_researched": "2026-08-21",
+      "search_count": 2
+    },
+    "What are the current QuestBridge National College Match 2026-2027 partner colleges that offer Computer Science and Engineering majors with full financial aid for matched students, and have there been any updates to the partner list since August 2026?": {
+      "last_researched": "2026-08-21",
+      "search_count": 2
+    },
+    "What is the confirmed FAFSA opening date for the 2027-2028 academic year as of August 2026, and have there been any official announcements about delays?": {
+      "last_researched": "2026-08-21",
+      "search_count": 3
     }
   },
   "digest_history": [
@@ -3022,6 +3193,23 @@
         "Fall 2027 college application deadlines for Texas public universities (UT Austin, Texas A&M) STEM majors",
         "STEM scholarships for Texas high school seniors closing in the next 90 days",
         "UT Austin Fall 2027 computer science admission requirements and test policy"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "topics_covered": [
+        "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, UH, Texas Tech) require separate engineering or computer science applications or have earlier deadlines?",
+        "Which universities have announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond the Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?",
+        "What is the confirmed FAFSA opening date for the 2027-2028 academic year as of August 2026, and have there been any official announcements about delays?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond the Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?",
+        "What are the current QuestBridge National College Match 2026-2027 partner colleges that offer Computer Science and Engineering majors with full financial aid for matched students, and have there been any updates to the partner list since August 2026?",
+        "What is the confirmed FAFSA opening date for the 2027-2028 academic year as of August 2026, and have there been any official announcements about delays?",
+        "What are the ApplyTexas application opening date, priority deadline, and final deadline for Fall 2027 freshman admission, and which Texas public universities (UT Austin, Texas A&M, UTD, UH, Texas Tech) require separate engineering or computer science applications or have earlier deadlines?",
+        "Which universities have announced new undergraduate Artificial Intelligence or Data Science majors or concentrations for Fall 2027 admission since August 16, 2026, and what are their admission requirements and deadlines?",
+        "Which national STEM scholarships for high school seniors (class of 2027) have application deadlines in September or October 2026, beyond the Gates Scholarship and Breakthrough Junior Challenge, and what are their eligibility requirements and award amounts?",
+        "What are the current QuestBridge National College Match 2026-2027 partner colleges that offer Computer Science and Engineering majors with full financial aid for matched students, and have there been any updates to the partner list since August 2026?",
+        "What is the confirmed FAFSA opening date for the 2027-2028 academic year as of August 2026, and have there been any official announcements about delays?"
       ]
     }
   ]
